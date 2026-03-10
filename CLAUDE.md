@@ -32,7 +32,7 @@
 ## 커밋 규칙
 - 커밋은 `/project:end` 실행 시에만 한다.
 - 커밋 메시지 형식: `학습: [주제명] - 간단 요약` / `복습: ...` / `작문: ...`
-- 스테이징 대상: `progress.md`, `sessions/`, `exercises/`
+- 스테이징 대상: `progress.md`, `sessions/`, `exercises/`, `docs/vocabulaire.md`
 
 ## 진도 추적
 - `progress.md`에 전체 커리큘럼 진도표가 있다 (항목별 상태, 이해도, 마지막 학습일).
@@ -52,6 +52,10 @@
 - `sessions/` — 세션별 상세 기록
 - `exercises/` — 작문 연습 및 교정 기록
 - `.claude/commands/` — 슬래시 커맨드 정의
+
+## 어휘 풀
+- `docs/vocabulaire.md`에 세션에서 등장한 모든 어휘를 누적 기록한다.
+- 시험 출제 시 이 목록에 있는 어휘만 사용한다. 새 어휘가 필요하면 문제에 뜻을 병기한다.
 
 ### 학습 자료 (`docs/`)
 - `docs/materials/` — **보강된 학습 자료 (주 참고 자료)**
