@@ -27,6 +27,7 @@
 - `/project:study` — 학습 세션 시작 (진도 확인 → Notion 자료 참고 → 수업)
 - `/project:review` — 취약점 복습
 - `/project:write` — 작문 연습
+- `/project:test` — 모의시험 (실제 시험과 동일 형식, 진도 미반영)
 - `/project:end` — 세션 종료 (세션 기록 작성 → progress.md 업데이트 → 커밋)
 
 ## 커밋 규칙
