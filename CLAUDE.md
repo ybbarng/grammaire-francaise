@@ -38,6 +38,7 @@
 ## 커밋 규칙
 - 커밋은 `/project:end` 실행 시에만 한다.
 - 커밋 메시지 형식: `학습: [주제명] - 간단 요약` / `복습: ...` / `작문: ...`
+- 커밋 후 항상 `git push`까지 실행한다.
 - 스테이징 대상: `progress.md`, `sessions/`, `tests/`, `exercises/`, `docs/vocabulaire.md`
 
 ## 진도 추적
