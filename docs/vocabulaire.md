@@ -317,3 +317,95 @@
 | trop de | 표현 | - | 너무 많은 |
 | assez de | 표현 | - | 충분한 |
 | tous les jours | 표현 | - | 매일 |
+
+## 3장: 형용사 시스템
+
+### 3-1. 성·수 일치 규칙
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|---|
+| petit | 형용사 | 남 | 작은 |
+| petite | 형용사 | 여 | 작은 |
+| grande | 형용사 (grand 여성형) | 여 | 큰 |
+| intelligent | 형용사 | 남 | 지적인 |
+| intelligente | 형용사 | 여 | 지적인 |
+| content | 형용사 | 남 | 만족한 |
+| contente | 형용사 | 여 | 만족한 |
+| bleu | 형용사 | 남 | 파란 |
+| bleue | 형용사 | 여 | 파란 |
+| jeune | 형용사 | - | 젊은 (남녀 동형) |
+| triste | 형용사 | - | 슬픈 (남녀 동형) |
+| difficile | 형용사 | - | 어려운 (남녀 동형) |
+| gros | 형용사 | 남 | 뚱뚱한, 큰 |
+| grosse | 형용사 | 여 | 뚱뚱한, 큰 |
+| heureux | 형용사 | 남 | 행복한 |
+| heureuse | 형용사 | 여 | 행복한 |
+| sérieux | 형용사 | 남 | 진지한 |
+| sérieuse | 형용사 | 여 | 진지한 |
+| sportif | 형용사 | 남 | 운동하는 |
+| sportive | 형용사 | 여 | 운동하는 |
+| actif | 형용사 | 남 | 활동적인 |
+| active | 형용사 | 여 | 활동적인 |
+| bonne | 형용사 (bon 여성형) | 여 | 좋은 |
+| ancien | 형용사 | 남 | 이전의, 오래된 |
+| ancienne | 형용사 | 여 | 이전의, 오래된 |
+| bas | 형용사 | 남 | 낮은 |
+| basse | 형용사 | 여 | 낮은 |
+| muet | 형용사 | 남 | 묵음의, 말없는 |
+| muette | 형용사 | 여 | 묵음의, 말없는 |
+| gentille | 형용사 (gentil 여성형) | 여 | 친절한, 착한 |
+| premier | 형용사 | 남 | 첫 번째 |
+| première | 형용사 | 여 | 첫 번째 |
+| léger | 형용사 | 남 | 가벼운 |
+| légère | 형용사 | 여 | 가벼운 |
+| blanc | 형용사 | 남 | 하얀 |
+| blanche | 형용사 | 여 | 하얀 |
+| sec | 형용사 | 남 | 마른 |
+| sèche | 형용사 | 여 | 마른 |
+| long | 형용사 | 남 | 긴 |
+| longue | 형용사 | 여 | 긴 |
+| bel | 형용사 (beau 모음 앞 남성형) | 남 | 아름다운 |
+| nouvel | 형용사 (nouveau 모음 앞 남성형) | 남 | 새로운 |
+| nouvelle | 형용사 (nouveau 여성형) | 여 | 새로운 |
+| nouveaux | 형용사 (nouveau 남성 복수) | 남 | 새로운 |
+| vieil | 형용사 (vieux 모음 앞 남성형) | 남 | 오래된 |
+| vieille | 형용사 (vieux 여성형) | 여 | 오래된 |
+| normal | 형용사 | 남 | 정상적인 |
+| normale | 형용사 | 여 | 정상적인 |
+| normaux | 형용사 (normal 남성 복수) | 남 | 정상적인 |
+| national | 형용사 | 남 | 국가의 |
+| nationale | 형용사 | 여 | 국가의 |
+| nationaux | 형용사 (national 남성 복수) | 남 | 국가의 |
+| rond | 형용사 | 남 | 둥근 |
+| garçon | 명사 | 남 | 소년 |
+| fille | 명사 | 여 | 소녀, 딸 |
+| appartement | 명사 | 남 | 아파트 |
+| arbre | 명사 | 남 | 나무 |
+| histoire | 명사 | 여 | 이야기, 역사 |
+| jardin | 명사 | 남 | 정원 |
+| résultat | 명사 | 남 | 결과 |
+| fête | 명사 | 여 | 축제, 파티 |
+| hôtel | 명사 | 남 | 호텔 |
+| noir | 형용사 | 남 | 검은 |
+| sont | 동사 (être 3인칭 복수) | - | ~이다 |
+| leçon | 명사 | 여 | 수업, 레슨 |
+| exercice | 명사 | 남 | 연습, 운동 |
+| règle | 명사 | 여 | 규칙 |
+| adjectif | 명사 | 남 | 형용사 |
+| mémoriser | 동사 | - | 암기하다 |
+| quitter | 동사 | - | 떠나다 |
+| pourquoi | 부사 | - | 왜 |
+| phrase | 명사 | 여 | 문장 |
+
+### 3-2. 형용사 위치
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|---|
+| joli | 형용사 | 남 | 예쁜 |
+| mauvais | 형용사 | 남 | 나쁜 |
+| dernier | 형용사 | 남 | 마지막의, 지난 |
+| dernière | 형용사 | 여 | 마지막의, 지난 |
+| cher | 형용사 | 남 | 소중한, 비싼 |
+| pauvre | 형용사 | - | 불쌍한, 가난한 |
+| propre | 형용사 | - | 자신의, 깨끗한 |
+| chambre | 명사 | 여 | 방 |
