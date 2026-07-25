@@ -2453,6 +2453,22 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | perdre le contact avec la réalité | 표현 | - | 현실 감각을 잃다 |
 | fixer des limites / limiter l'usage | 표현 | - | 한계를 정하다 / 사용을 제한하다 |
 | rester en contact avec ses proches | 표현 | - | 가까운 사람들과 연락하며 지내다 |
+| l'apprentissage des langues étrangères | 표현 | 남 | 외국어 학습 |
+| la barrière linguistique / de la langue | 표현 | 여 | 언어 장벽 (barrière 철자) |
+| le développement (de l'IA) | 명사 | 남 | 발전·개발 (철자: 악상 + pp) |
+| grâce à | 전치사구 | - | ~덕분에 |
+| dire que (≠ parler que) | 동사 | - | ~라고 말하다 (parler는 que절 X) |
+| les réseaux sociaux (un réseau social) | 명사 | 남 | SNS·소셜 미디어 (≠ les médias 매체) |
+| une fonctionnalité / une fonction | 명사 | 여 | 기능 |
+| lancer / déployer (une fonctionnalité) | 동사 | - | (기능을) 출시·배포하다 |
+| générer de la voix | 표현 | - | 음성을 생성하다 |
+| traduire (d'une langue à l'autre) | 동사 | - | 번역하다 |
+| étrange(이상한) ≠ un étranger(외국인) | 형용사/명사 | - | 이상한 / 외국인·외국의 |
+| se disputer (avec) | 동사 (재귀) | - | 다투다·말다툼하다 |
+| balbutier (quelques mots) | 동사 | - | 더듬거리다·떠듬떠듬 말하다 |
+| n'est plus aussi … qu'avant | 구문 | - | 예전만큼 ~하지 않다 |
+| bien que + 접속법 | 구문 | - | ~에도 불구하고 (bien que la barrière ait baissé) |
+| plutôt que de + 부정사 | 구문 | - | ~하기보다는 |
 
 
 

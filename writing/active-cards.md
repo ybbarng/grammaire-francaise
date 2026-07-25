@@ -82,6 +82,8 @@
 | grammaire | W | 소유형용사는 주어에 일치 (il→son/ses, ils→leur/leurs) | 복수 주어면 leur/leurs | Ils…son rôle ❌ → leur | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | de + le/les = du/des (축약) | de+le=du, de+les=des | de les personnes ❌ → des | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | aider qqn à + 부정사 | ~하도록 돕다 (주어 다르면 à로 연결, pour X) | aider pour ne pas perdre ❌ → à | 2026-07-24 | 2026-07-25 | 0 |
+| grammaire | W | dire que (≠ parler que) | ~라고 말하다 (parler는 que절 안 받음) | la japonaise parle que ❌ → dit que | 2026-07-25 | 2026-07-26 | 0 |
+| cliché | S | étrange(이상한) ≠ étranger(외국인·외국의) | 철자로 뜻 바뀜 | les étranges ❌ → les étrangers | 2026-07-25 | 2026-07-26 | 0 |
 | chunk | S | sans s'en rendre compte (주어별: m'en/t'en/s'en/nous en/vous en) | 자기도 모르게 (뿌리=se rendre compte de qch 깨닫다) | sans connaissance ❌ / 주어 se 변화 누락 | 2026-07-21 | 2026-07-26 | 11 |
 | grammaire | W | devenir/venir/… = être 보조 (복합과거) | elle est devenue (+ 일치) | a devenu ❌ → est devenue | 2026-07-15 | 2026-07-16 | 0 |
 | cliché | S | un média (남성, 복수 les médias) | 매체 | les nombreuses médias ❌ → nombreux | 2026-07-15 | 2026-07-16 | 0 |
@@ -191,6 +193,9 @@
 | cliché | S | bleu (철자) / le ciel bleu | 파란 | blue ❌ (영어) | 2026-07-21 | 참조 |
 | cliché | S | une attente (기대) ≠ attendre (기다리다) | les attentes des autres | l'attendre d'autre ❌ | 2026-07-24 | 참조 |
 | cliché | S | indéfiniment (무한정) | 계속·끝없이 | infinitement ❌ | 2026-07-24 | 참조 |
+| cliché | S | une fonction / une fonctionnalité (여성) | 기능 | le nouvel fonction ❌ → une nouvelle | 2026-07-25 | 참조 |
+| chunk | S | les réseaux sociaux (un réseau social) | SNS·소셜 미디어 (≠ les médias 매체) | (단어 미상) | 2026-07-25 | 참조 |
+| chunk | W | balbutier quelques mots | 몇 마디 더듬거리다 | (잘 씀, 고급) | 2026-07-25 | 참조 |
 
 ---
 
