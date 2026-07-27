@@ -2469,6 +2469,18 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | n'est plus aussi … qu'avant | 구문 | - | 예전만큼 ~하지 않다 |
 | bien que + 접속법 | 구문 | - | ~에도 불구하고 (bien que la barrière ait baissé) |
 | plutôt que de + 부정사 | 구문 | - | ~하기보다는 |
+| avoir l'air de + 부정사 / + 형용사 | 구문 | - | ~해 보이다 (il a l'air de dormir / fatigué) |
+| avoir du mal à + 부정사 | 구문 | - | ~하기 힘들다 (avoir mal à=아프다와 구별) |
+| faire de son mieux | 표현 | - | 최선을 다하다 |
+| ranger (sa chambre) | 동사 | - | 정리하다 (arranger ❌ 재발) |
+| peindre (peint) / une affiche | 동사/명사 | 여 | 칠하다·그리다 (과거분사 peint) / 포스터 |
+| s'éteindre (s'est éteinte) | 동사 (재귀) | - | 꺼지다 (과거분사 éteint; -eindre→-eint) |
+| à temps | 표현 | - | 제시간에 |
+| bientôt (≠ à l'instant) | 부사 | - | 곧 (à l'instant=방금·즉시) |
+| parler (à qqn / de qch / une langue) | 동사 | - | 말하다·이야기하다 (que절 X — 행위) |
+| parler pour ne rien dire | 표현 | - | 알맹이 없이 말하다·빈말하다 |
+| raconter (une histoire) | 동사 | - | (이야기를) 들려주다 |
+| comme si de rien n'était | 표현 | - | 아무 일도 없었던 것처럼 |
 
 
 

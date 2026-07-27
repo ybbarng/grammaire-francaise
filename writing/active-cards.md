@@ -84,6 +84,8 @@
 | grammaire | W | aider qqn à + 부정사 | ~하도록 돕다 (주어 다르면 à로 연결, pour X) | aider pour ne pas perdre ❌ → à | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | dire que (≠ parler que) | ~라고 말하다 (parler는 que절 안 받음) | la japonaise parle que ❌ → dit que | 2026-07-25 | 2026-07-26 | 0 |
 | cliché | S | étrange(이상한) ≠ étranger(외국인·외국의) | 철자로 뜻 바뀜 | les étranges ❌ → les étrangers | 2026-07-25 | 2026-07-26 | 0 |
+| chunk | S | avoir du mal à + 부정사 (du 필수) | ~하기 힘들다 (avoir mal à=아프다와 구별) | avoir mal à courir ❌ | 2026-07-27 | 2026-07-28 | 0 |
+| grammaire | W | comme s'il ne s'était rien passé / comme si de rien n'était | 아무 일도 없었던 것처럼 (se passer 대과거) | comme s'il n'y avait rien ❌ | 2026-07-27 | 2026-07-28 | 0 |
 | chunk | S | sans s'en rendre compte (주어별: m'en/t'en/s'en/nous en/vous en) | 자기도 모르게 (뿌리=se rendre compte de qch 깨닫다) | sans connaissance ❌ / 주어 se 변화 누락 | 2026-07-21 | 2026-07-26 | 11 |
 | grammaire | W | devenir/venir/… = être 보조 (복합과거) | elle est devenue (+ 일치) | a devenu ❌ → est devenue | 2026-07-15 | 2026-07-16 | 0 |
 | cliché | S | un média (남성, 복수 les médias) | 매체 | les nombreuses médias ❌ → nombreux | 2026-07-15 | 2026-07-16 | 0 |
@@ -106,7 +108,7 @@
 | chunk | S | une alimentation variée / des nutriments | 균형 잡힌 식단 / 영양소 | la nourritures ❌ / la riche nutrition | 2026-07-06 | 2026-07-07 | 0 |
 | cliché | S | basé sur (not de) | ~에 기반한 | basé de ❌ | 2026-07-06 | 2026-07-07 | 0 |
 | cliché | S | une horloge (여성) / le rythme biologique | 생체시계 | un horloge ❌ | 2026-07-06 | 2026-07-07 | 0 |
-| chunk | S | ranger (정리하다) | (물건·방을) 정리 (ranger dans + 수납) | arranger ❌ / à l'armoire → dans | 2026-07-03 | 2026-07-08 | 1 |
+| chunk | S | ranger (정리하다) | (물건·방을) 정리 (ranger sa chambre) | arranger ❌ (재발 7/27) | 2026-07-03 | 2026-07-28 | 2 |
 | chunk | S | en voiture / en train (교통수단) | 교통수단 = en + 무관사 | avec voiture ❌ → en voiture | 2026-07-05 | 2026-07-06 | 0 |
 | chunk | S | profiter de | ~을 즐기다·누리다 | jouir le soleil ❌ → profiter du | 2026-07-05 | 2026-07-06 | 0 |
 | chunk | S | se souvenir de / un souvenir | 기억하다 / 추억 | le memoire ❌ (=기억력·논문) | 2026-07-05 | 2026-07-06 | 0 |
@@ -196,6 +198,8 @@
 | cliché | S | une fonction / une fonctionnalité (여성) | 기능 | le nouvel fonction ❌ → une nouvelle | 2026-07-25 | 참조 |
 | chunk | S | les réseaux sociaux (un réseau social) | SNS·소셜 미디어 (≠ les médias 매체) | (단어 미상) | 2026-07-25 | 참조 |
 | chunk | W | balbutier quelques mots | 몇 마디 더듬거리다 | (잘 씀, 고급) | 2026-07-25 | 참조 |
+| chunk | S | avoir l'air de + 부정사 / + 형용사 | ~해 보이다 (il a l'air de dormir / fatigué) | (잘 씀) | 2026-07-27 | 참조 |
+| grammaire | W | 부사 bien은 부정사 앞 (bien peindre) | 어순 | peindre bien ❌ | 2026-07-27 | 참조 |
 
 ---
 
