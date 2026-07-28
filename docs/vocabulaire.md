@@ -2480,7 +2480,16 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | parler (à qqn / de qch / une langue) | 동사 | - | 말하다·이야기하다 (que절 X — 행위) |
 | parler pour ne rien dire | 표현 | - | 알맹이 없이 말하다·빈말하다 |
 | raconter (une histoire) | 동사 | - | (이야기를) 들려주다 |
-| comme si de rien n'était | 표현 | - | 아무 일도 없었던 것처럼 |
+| comme si de rien n'était | 표현 | - | 아무 일도 없었던 것처럼 (관용구, se 없음·n'était, 통째 암기) |
+| se passer (il ne s'est rien passé) | 동사 (비인칭) | - | (일이) 일어나다 (il 고정 — 주어 무관) |
+| quitter (qch/qqn) | 동사 (타동사) | - | ~을 떠나다 (quitter la chambre; avoir) |
+| sortir de (qch) | 동사 (자동사) | - | ~에서 나가다 (sortir de la chambre; être) |
+| partir (de) | 동사 (자동사) | - | 떠나다·출발하다 (목적어 X, être) |
+| s'efforcer de + 부정사 | 동사 (재귀) | - | ~하려고 애쓰다 |
+| retenir ses larmes | 표현 | - | 눈물을 참다 |
+| la maîtresse / le maître (d'école) | 명사 | 여/남 | (초등) 선생님 |
+| un examen | 명사 | 남 | 시험 |
+| se concentrer sur son travail | 표현 | - | 자기 일에 집중하다 |
 
 
 

@@ -78,14 +78,15 @@
 | cliché | S | 요일 앞 무전치사 (avoir lieu samedi / lundi prochain) | 요일엔 à/le 없이 바로 | avoir lieu à samedi ❌ | 2026-07-20 | 2026-07-21 | 0 |
 | grammaire | W | 대명사 y = à + 사물/장소 | j'y pense(penser à) / je m'y entraîne(s'entraîner à) | me l'entraîner ❌ | 2026-07-20 | 2026-07-21 | 0 |
 | grammaire | W | séparer A **de** B | A와 B를 분리하다 (et 아님) | séparer vie pro et vie privée ❌ | 2026-07-21 | 2026-07-22 | 0 |
-| grammaire | W | se contrôler (자기 통제) | 통제하다는 대상 필요; 자기 자신=se contrôler | contrôler soi-même ❌ / ne peut pas contrôler | 2026-07-24 | 2026-07-25 | 0 |
+| grammaire | W | se contrôler (자기 통제) | 통제하다는 대상 필요; 자기 자신=se contrôler | contrôler soi-même ❌ (7/28 워밍업 정확) | 2026-07-24 | 2026-07-30 | 1 |
 | grammaire | W | 소유형용사는 주어에 일치 (il→son/ses, ils→leur/leurs) | 복수 주어면 leur/leurs | Ils…son rôle ❌ → leur | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | de + le/les = du/des (축약) | de+le=du, de+les=des | de les personnes ❌ → des | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | aider qqn à + 부정사 | ~하도록 돕다 (주어 다르면 à로 연결, pour X) | aider pour ne pas perdre ❌ → à | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | dire que (≠ parler que) | ~라고 말하다 (parler는 que절 안 받음) | la japonaise parle que ❌ → dit que | 2026-07-25 | 2026-07-26 | 0 |
 | cliché | S | étrange(이상한) ≠ étranger(외국인·외국의) | 철자로 뜻 바뀜 | les étranges ❌ → les étrangers | 2026-07-25 | 2026-07-26 | 0 |
-| chunk | S | avoir du mal à + 부정사 (du 필수) | ~하기 힘들다 (avoir mal à=아프다와 구별) | avoir mal à courir ❌ | 2026-07-27 | 2026-07-28 | 0 |
-| grammaire | W | comme s'il ne s'était rien passé / comme si de rien n'était | 아무 일도 없었던 것처럼 (se passer 대과거) | comme s'il n'y avait rien ❌ | 2026-07-27 | 2026-07-28 | 0 |
+| chunk | S | avoir du mal à + 부정사 (du 필수) | ~하기 힘들다 (avoir mal à=아프다와 구별) | avoir mal à courir ❌ (7/28 워밍업 정확) | 2026-07-27 | 2026-07-30 | 1 |
+| grammaire | W | partir(자동사, 목적어 X) ↔ quitter(타동사) ↔ sortir de | 떠나다(그냥) / ~을 떠나다(quitter+avoir) / ~에서 나가다(sortir de+être) | Il est parti la chambre ❌ | 2026-07-28 | 2026-07-29 | 0 |
+| chunk | W | s'efforcer de + 부정사 / retenir ses larmes | 애쓰다 / 눈물을 참다 | (잘 씀) | 2026-07-28 | 2026-07-29 | 0 |
 | chunk | S | sans s'en rendre compte (주어별: m'en/t'en/s'en/nous en/vous en) | 자기도 모르게 (뿌리=se rendre compte de qch 깨닫다) | sans connaissance ❌ / 주어 se 변화 누락 | 2026-07-21 | 2026-07-26 | 11 |
 | grammaire | W | devenir/venir/… = être 보조 (복합과거) | elle est devenue (+ 일치) | a devenu ❌ → est devenue | 2026-07-15 | 2026-07-16 | 0 |
 | cliché | S | un média (남성, 복수 les médias) | 매체 | les nombreuses médias ❌ → nombreux | 2026-07-15 | 2026-07-16 | 0 |
@@ -162,6 +163,7 @@
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 정착일 | 다음 복습일 | 단계 |
 |---|---|---|---|---|---|---|---|
 | grammaire | W | comme si + 반과거(현재 비현실)/대과거(과거 비현실) | comme s'il était millionnaire / comme si j'avais gagné · 대과거 aux 주의(rencontrer=avoir) | comme si + 현재·PC ❌ (7/21 n'a compris→n'avait) | 2026-07-18 | 2026-07-24 | 3일 |
+| grammaire | W | comme si de rien n'était(관용, se 없음·n'était) / comme s'il ne s'était rien passé(se passer 대과거, il 고정) | 아무 일도 없었던 것처럼 | de rien s'était ❌ / il 누락 (7/28 자유 인출 2회 정착) | 2026-07-28 | 2026-07-31 | 3일 |
 
 ## T4 — 참조 보관 (능동 학습 X)
 
