@@ -87,6 +87,11 @@
 | chunk | S | avoir du mal à + 부정사 (du 필수) | ~하기 힘들다 (avoir mal à=아프다와 구별) | avoir mal à courir ❌ (7/28 워밍업 정확) | 2026-07-27 | 2026-07-30 | 1 |
 | grammaire | W | partir(자동사, 목적어 X) ↔ quitter(타동사) ↔ sortir de | 떠나다(그냥) / ~을 떠나다(quitter+avoir) / ~에서 나가다(sortir de+être) | Il est parti la chambre ❌ | 2026-07-28 | 2026-07-29 | 0 |
 | chunk | W | s'efforcer de + 부정사 / retenir ses larmes | 애쓰다 / 눈물을 참다 | (잘 씀) | 2026-07-28 | 2026-07-29 | 0 |
+| chunk | S | faire semblant de + 부정사 | ~인 척하다 (comme si de rien n'était 사촌) | (7/31 massed 3맥락 정착) | 2026-07-31 | 2026-08-01 | 0 |
+| chunk | S | tenir sa promesse | 약속을 지키다 (tenir: il tient) | tien se promesse ❌ → tient sa | 2026-07-31 | 2026-08-01 | 0 |
+| grammaire | W | 빈도부사(toujours/souvent/rarement/jamais)는 활용 동사 직후 | Il tient toujours sa promesse | 문장 끝 ❌ | 2026-07-31 | 2026-08-01 | 0 |
+| cliché | S | connaître(사람·장소 알다) ≠ savoir(사실 알다) | me connaître / savoir que | ne me savait pas ❌ → connaissait | 2026-07-31 | 2026-08-01 | 0 |
+| chunk | S | faire de son mieux | 최선을 다하다 | je fais meilure ❌ (재확인) | 2026-07-27 | 2026-08-01 | 1 |
 | chunk | S | sans s'en rendre compte (주어별: m'en/t'en/s'en/nous en/vous en) | 자기도 모르게 (뿌리=se rendre compte de qch 깨닫다) | sans connaissance ❌ / 주어 se 변화 누락 | 2026-07-21 | 2026-07-26 | 11 |
 | grammaire | W | devenir/venir/… = être 보조 (복합과거) | elle est devenue (+ 일치) | a devenu ❌ → est devenue | 2026-07-15 | 2026-07-16 | 0 |
 | cliché | S | un média (남성, 복수 les médias) | 매체 | les nombreuses médias ❌ → nombreux | 2026-07-15 | 2026-07-16 | 0 |
@@ -202,6 +207,8 @@
 | chunk | W | balbutier quelques mots | 몇 마디 더듬거리다 | (잘 씀, 고급) | 2026-07-25 | 참조 |
 | chunk | S | avoir l'air de + 부정사 / + 형용사 | ~해 보이다 (il a l'air de dormir / fatigué) | (잘 씀) | 2026-07-27 | 참조 |
 | grammaire | W | 부사 bien은 부정사 앞 (bien peindre) | 어순 | peindre bien ❌ | 2026-07-27 | 참조 |
+| grammaire | S | passer(지나가다)=être (il est passé) | 자동사 이동 = être (partir/sortir처럼) | il a passé ❌ | 2026-07-31 | 참조 |
+| cliché | S | dormir(자다, 재귀 X) ≠ s'endormir(잠들다, 재귀) | faire semblant de dormir | se dormir ❌ | 2026-07-31 | 참조 |
 
 ---
 

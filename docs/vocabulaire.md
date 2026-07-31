@@ -2490,6 +2490,15 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | la maîtresse / le maître (d'école) | 명사 | 여/남 | (초등) 선생님 |
 | un examen | 명사 | 남 | 시험 |
 | se concentrer sur son travail | 표현 | - | 자기 일에 집중하다 |
+| faire semblant de + 부정사 | 구문 | - | ~인 척하다 |
+| tenir sa promesse (il tient) | 표현 | - | 약속을 지키다 (tenir: il tient, 과거분사 tenu) |
+| par conséquent | 연결사 | - | 따라서·그 결과 |
+| connaître (qqn/qch) ≠ savoir | 동사 | - | (사람·장소를) 알다 (savoir=사실을 알다) |
+| passer (지나가다, être) | 동사 (자동사) | - | 지나가다 (il est passé; 이동 자동사=être) |
+| dormir (자다) ≠ s'endormir (잠들다) | 동사 | - | 자다(재귀 X) / 잠들다(재귀 O) |
+| 빈도부사 (toujours/souvent/rarement/jamais) | 부사 | - | 활용 동사 바로 뒤에 위치 |
+| un politicien | 명사 | 남 | 정치인 |
+| rarement | 부사 | - | 좀처럼 ~않다·드물게 |
 
 
 
