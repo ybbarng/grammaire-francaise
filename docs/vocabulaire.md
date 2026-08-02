@@ -2499,6 +2499,31 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | 빈도부사 (toujours/souvent/rarement/jamais) | 부사 | - | 활용 동사 바로 뒤에 위치 |
 | un politicien | 명사 | 남 | 정치인 |
 | rarement | 부사 | - | 좀처럼 ~않다·드물게 |
+| vivre quelque chose (겪다) ≠ expérimenter(실험하다) | 동사 | - | 경험하다·겪다 (expérimenter=과학 실험, faux ami) |
+| rester + 속사 (여전히 ~이다) | 동사 | - | 계속 ~인 채로 있다 (X reste mon meilleur souvenir) |
+| quelque chose de + 남성형용사 | 구문 | - | ~한 무언가 (quelque chose d'inhabituel; rien de nouveau) |
+| une aurore boréale / une éclipse solaire totale | 명사 | 여 | 오로라 / 개기일식 |
+| la pollution lumineuse | 명사 | 여 | 광공해 |
+| un long temps de pose | 명사 | 남 | (사진) 긴 노출 |
+| un casque de VR (réalité virtuelle) | 명사 | 남 | VR 헤드셋 |
+| des arbres enneigés / de la neige amoncelée | 표현 | - | 눈 덮인 나무 / 높게 쌓인 눈 |
+| faire d'une pierre deux coups | 표현 | - | 일석이조 |
+| se mettre en tenue de (ski) | 표현 | - | (스키복) 차림으로 갈아입다 |
+| s'approcher de | 동사 (재귀) | - | ~에 다가가다 |
+| se transformer en | 동사 (재귀) | - | ~로 변하다 |
+| finir par + 부정사 | 구문 | - | 결국 ~하게 되다 |
+| au-dessus de (≠ sur) | 전치사구 | - | ~위쪽에 (au-dessus de nos têtes) |
+| ondoyer / onduler (doucement) | 동사 | - | 하늘거리며 물결치다 |
+| assister à qch | 동사 | - | ~을 목격하다·참관하다 |
+| entendre(들리다) ≠ écouter(경청) | 동사 | - | hear ≠ listen |
+| emmener qqn (데려가다) ≠ entraîner | 동사 | - | 사람을 데려가다 (entraîner=끌어들이다·훈련) |
+| croire à qch → y (je n'y croyais pas) | 구문 | - | ~을 믿다 (대명사 y) |
+| en = de + 것 (j'en ai pris une photo) | 문법 | - | 그것의/그것에 대한 (de+명사 대신 en) |
+| prendre qch en photo | 표현 | - | ~을 사진 찍다 |
+| vers minuit / minuit·midi 무관사 | 표현 | - | 자정쯤 (vers=~쯤, environ=약) |
+| à mon tour | 표현 | - | 나도·내 차례에 |
+| depuis (그 이후로 계속) | 전치사 | - | ~이래로 (+현재, 지속) |
+| tous ceux que + 절 | 구문 | - | ~하는 모든 사람들 |
 
 
 

@@ -60,7 +60,8 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지; quand+사건=PC) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X | (7/19~23 실전 정확 반복; Je dormais quand le téléphone a sonné) | 2026-07-18 | 2026-07-25 | 5 |
+| grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지; quand+사건=PC) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X | (7/19~23 실전 정확 반복; Je dormais quand le téléphone a sonné) | 2026-07-18 | 2026-08-03 | 5 |
+| grammaire | W | 대명동사(재귀)는 복합과거·반과거에서 조동사 être + 재귀대명사 | je me suis dit / je m'inquiétais / on s'est levé | m'a dit ❌ / m'a inquiétais ❌ (고질, 8/2 재발) | 2026-08-02 | 2026-08-03 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
@@ -88,6 +89,12 @@
 | grammaire | W | partir(자동사, 목적어 X) ↔ quitter(타동사) ↔ sortir de | 떠나다(그냥) / ~을 떠나다(quitter+avoir) / ~에서 나가다(sortir de+être) | Il est parti la chambre ❌ | 2026-07-28 | 2026-07-29 | 0 |
 | chunk | W | s'efforcer de + 부정사 / retenir ses larmes | 애쓰다 / 눈물을 참다 | (잘 씀) | 2026-07-28 | 2026-07-29 | 0 |
 | chunk | S | faire semblant de + 부정사 | ~인 척하다 (comme si de rien n'était 사촌) | (7/31 massed 3맥락 정착) | 2026-07-31 | 2026-08-01 | 0 |
+| grammaire | S | arriver = être (il est arrivé) | 이동·발생 자동사 = être | il a arrivé ❌ | 2026-08-02 | 2026-08-03 | 0 |
+| grammaire | W | s'arrêter de + 부정사 / se transformer en | ~하기를 멈추다 / ~로 변하다 | arrêter prendre ❌ / transformer le rideau ❌ | 2026-08-02 | 2026-08-03 | 0 |
+| chunk | S | faire d'une pierre deux coups | 일석이조 | (잘 씀 8/2, 굳히기) | 2026-08-02 | 2026-08-03 | 0 |
+| grammaire | W | 주어 같으면 que+접속법 대신 부정사 | Je souhaite/espère **pouvoir** (que je puisse ❌) — 주어 다르면 que+접속법 | souhaite que je puisse ❌ | 2026-08-02 | 2026-08-03 | 0 |
+| grammaire | W | assister à qch / croire à qch → y | ~을 목격하다 / ~을 믿다(y로 받음) | assister le dragon ❌ / je n'croyais ❌ | 2026-08-02 | 2026-08-03 | 0 |
+| cliché | S | entendre(들리다) ≠ écouter(경청) · emmener(데려가다) ≠ entraîner | hear≠listen / 사람 데려가다=emmener | entendre l'explication △ / nous a entraîné ❌ | 2026-08-02 | 2026-08-03 | 0 |
 | chunk | S | tenir sa promesse | 약속을 지키다 (tenir: il tient) | tien se promesse ❌ → tient sa | 2026-07-31 | 2026-08-01 | 0 |
 | grammaire | W | 빈도부사(toujours/souvent/rarement/jamais)는 활용 동사 직후 | Il tient toujours sa promesse | 문장 끝 ❌ | 2026-07-31 | 2026-08-01 | 0 |
 | cliché | S | connaître(사람·장소 알다) ≠ savoir(사실 알다) | me connaître / savoir que | ne me savait pas ❌ → connaissait | 2026-07-31 | 2026-08-01 | 0 |
@@ -208,6 +215,8 @@
 | chunk | S | avoir l'air de + 부정사 / + 형용사 | ~해 보이다 (il a l'air de dormir / fatigué) | (잘 씀) | 2026-07-27 | 참조 |
 | grammaire | W | 부사 bien은 부정사 앞 (bien peindre) | 어순 | peindre bien ❌ | 2026-07-27 | 참조 |
 | grammaire | S | passer(지나가다)=être (il est passé) | 자동사 이동 = être (partir/sortir처럼) | il a passé ❌ | 2026-07-31 | 참조 |
+| chunk | S | une aurore boréale / une éclipse solaire totale | 오로라 / 개기일식 | — | 2026-08-02 | 참조 |
+| chunk | S | un long temps de pose / un casque de VR / la pollution lumineuse / des arbres enneigés | 긴 노출 / VR 헤드셋 / 광공해 / 눈 덮인 나무 | — | 2026-08-02 | 참조 |
 | cliché | S | dormir(자다, 재귀 X) ≠ s'endormir(잠들다, 재귀) | faire semblant de dormir | se dormir ❌ | 2026-07-31 | 참조 |
 
 ---
