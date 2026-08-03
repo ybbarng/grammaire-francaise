@@ -2524,6 +2524,14 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | à mon tour | 표현 | - | 나도·내 차례에 |
 | depuis (그 이후로 계속) | 전치사 | - | ~이래로 (+현재, 지속) |
 | tous ceux que + 절 | 구문 | - | ~하는 모든 사람들 |
+| croire à qch → y (j'y crois) | 구문 | - | ~을 믿다 (대명사 y, en 아님) |
+| ne pas arriver à + 부정사 | 구문 | - | ~할 수 없다·~하지 못하다 |
+| faire le tour du monde | 표현 | - | 세계 일주를 하다 (관사 le) |
+| acheter (철자, 악상 없음) | 동사 | - | 사다 (achéter ❌) |
+| se dire (que) / se rendre compte — 무일치 | 동사 (재귀) | - | se=간접목적어(à soi)라 과거분사 무일치 (dit·rendu 고정) |
+| se transformer / se laver / se lever — 일치 | 동사 (재귀) | - | se=직접목적어라 주어와 과거분사 일치 (transformée 등) |
+| se promener (미래 promènerai) | 동사 (재귀) | - | 산책하다 (acheter 계열: 미래·조건법 è) |
+| au début du mois | 표현 | - | 월초에 |
 
 
 

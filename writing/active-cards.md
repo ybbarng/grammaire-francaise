@@ -95,6 +95,8 @@
 | grammaire | W | 주어 같으면 que+접속법 대신 부정사 | Je souhaite/espère **pouvoir** (que je puisse ❌) — 주어 다르면 que+접속법 | souhaite que je puisse ❌ | 2026-08-02 | 2026-08-03 | 0 |
 | grammaire | W | assister à qch / croire à qch → y | ~을 목격하다 / ~을 믿다(y로 받음) | assister le dragon ❌ / je n'croyais ❌ | 2026-08-02 | 2026-08-03 | 0 |
 | cliché | S | entendre(들리다) ≠ écouter(경청) · emmener(데려가다) ≠ entraîner | hear≠listen / 사람 데려가다=emmener | entendre l'explication △ / nous a entraîné ❌ | 2026-08-02 | 2026-08-03 | 0 |
+| grammaire | W | croire à qch → y (en 아님) | j'y crois / je n'y croyais pas | je n'en croyais ❌ | 2026-08-03 | 2026-08-04 | 0 |
+| grammaire | W | 재귀 성수일치: se=직목→일치 / se=간목→무일치 | 무일치 목록: se parler·dire·téléphoner·demander·rendre compte 등; 기본은 일치 | s'est transformé ❌→transformée / s'est dite ❌(dit 고정) | 2026-08-03 | 2026-08-04 | 0 |
 | chunk | S | tenir sa promesse | 약속을 지키다 (tenir: il tient) | tien se promesse ❌ → tient sa | 2026-07-31 | 2026-08-01 | 0 |
 | grammaire | W | 빈도부사(toujours/souvent/rarement/jamais)는 활용 동사 직후 | Il tient toujours sa promesse | 문장 끝 ❌ | 2026-07-31 | 2026-08-01 | 0 |
 | cliché | S | connaître(사람·장소 알다) ≠ savoir(사실 알다) | me connaître / savoir que | ne me savait pas ❌ → connaissait | 2026-07-31 | 2026-08-01 | 0 |
@@ -176,6 +178,7 @@
 |---|---|---|---|---|---|---|---|
 | grammaire | W | comme si + 반과거(현재 비현실)/대과거(과거 비현실) | comme s'il était millionnaire / comme si j'avais gagné · 대과거 aux 주의(rencontrer=avoir) | comme si + 현재·PC ❌ (7/21 n'a compris→n'avait) | 2026-07-18 | 2026-07-24 | 3일 |
 | grammaire | W | comme si de rien n'était(관용, se 없음·n'était) / comme s'il ne s'était rien passé(se passer 대과거, il 고정) | 아무 일도 없었던 것처럼 | de rien s'était ❌ / il 누락 (7/28 자유 인출 2회 정착) | 2026-07-28 | 2026-07-31 | 3일 |
+| grammaire | W | **comme si + 대과거 형성** (avait + 과거분사) — active 되돌림 | comme s'il n'avait rien su/vu/entendu (부정사 X, 과거분사 O; ne...rien) | comme s'il n'a rien entendu ❌(PC 금지) / avaient pas savoir ❌→rien su | 2026-08-03 | 2026-08-04 | 0 |
 
 ## T4 — 참조 보관 (능동 학습 X)
 
