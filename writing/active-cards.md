@@ -224,6 +224,21 @@
 
 ---
 
+## Q4 대비 — 구어 "phrases de survie" (register O · Q3 미활성)
+
+> Q4 말하기 분기에서 활성화. 8/3 ChatGPT 음성 대화 후 사용자 요청 — 막혔을 때 대화를 끊지 않고 이어가는 생존 표현.
+
+| reg | 표현 | 뜻 |
+|---|---|---|
+| O | Vous pouvez répéter, s'il vous plaît ? | 다시 말해 주시겠어요? |
+| O | Plus lentement, s'il vous plaît. | 조금 천천히요. |
+| O | Comment dit-on … en français ? | ~를 프랑스어로 뭐라고 해요? |
+| O | Je ne sais pas comment le dire. / Je n'arrive pas à l'expliquer. | 어떻게 말할지 모르겠어요 / 설명을 못 하겠어요 |
+| O | Attendez, je réfléchis. | 잠깐만요, 생각 중이에요. |
+| O | Qu'est-ce que ça veut dire ? | 그게 무슨 뜻이에요? |
+
+---
+
 ## 사전 풀 (Q3 시작 시 베이스라인 자가 분류 → T1\~T4 배치)
 
 > 5/1 작문 시범 결과 + 핵심 정형표현. Q3 시작 시 사용자가 "이미 능동/반복 필요/모름"으로 자가 분류하면 그게 베이스라인이 되고, 카드가 T1\~T4로 흩어진다.
