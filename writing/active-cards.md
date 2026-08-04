@@ -97,6 +97,10 @@
 | cliché | S | entendre(들리다) ≠ écouter(경청) · emmener(데려가다) ≠ entraîner | hear≠listen / 사람 데려가다=emmener | entendre l'explication △ / nous a entraîné ❌ | 2026-08-02 | 2026-08-03 | 0 |
 | grammaire | W | croire à qch → y (en 아님) | j'y crois / je n'y croyais pas | je n'en croyais ❌ | 2026-08-03 | 2026-08-04 | 0 |
 | grammaire | W | 재귀 성수일치: se=직목→일치 / se=간목→무일치 | 무일치 목록: se parler·dire·téléphoner·demander·rendre compte 등; 기본은 일치 | s'est transformé ❌→transformée / s'est dite ❌(dit 고정) | 2026-08-03 | 2026-08-04 | 0 |
+| grammaire | W | **복수 주어/선행사 → 복수 동사** (수 일치) | les nouvelles disparaissent / qui agitent | est partagé·agite·disparaît ❌ (긴 글서 미끄러짐) | 2026-08-04 | 2026-08-05 | 0 |
+| grammaire | W | **on = 동사 3인칭 단수** (과거분사·형용사만 복수 일치) | on se dispute / on est arrivés(과거분사만) | on se bagarrons·connaissions ❌ | 2026-08-04 | 2026-08-05 | 0 |
+| grammaire | W | être + 과거분사 → 주어 성수일치 (수동·대명·이동 통합; avoir 무일치) | sont partagées / a été invitée | est partagé ❌ | 2026-08-04 | 2026-08-05 | 0 |
+| cliché | S | 구별 동사: parler/dire·exprimer(구조) · entendre/écouter(의미) | 한국어가 합친 것 | parler son opinion ❌ → exprimer | 2026-08-04 | 2026-08-05 | 0 |
 | chunk | S | tenir sa promesse | 약속을 지키다 (tenir: il tient) | tien se promesse ❌ → tient sa | 2026-07-31 | 2026-08-01 | 0 |
 | grammaire | W | 빈도부사(toujours/souvent/rarement/jamais)는 활용 동사 직후 | Il tient toujours sa promesse | 문장 끝 ❌ | 2026-07-31 | 2026-08-01 | 0 |
 | cliché | S | connaître(사람·장소 알다) ≠ savoir(사실 알다) | me connaître / savoir que | ne me savait pas ❌ → connaissait | 2026-07-31 | 2026-08-01 | 0 |

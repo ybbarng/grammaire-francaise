@@ -23,7 +23,10 @@
 ### 활성 약점 (8월 집중)
 - **재귀동사 조동사 = être** (je me suis dit; m'a ❌) — T1
 - **comme si + 대과거 형성** (avait + 과거분사; PC·부정사 ❌) — active 재드릴
-- 이동 동사 = être(arriver/partir/sortir) · se transformer en · arrêter de + 부정사 · si절 조건법 금지 · 주어 같으면 부정사 · 재귀 성수일치(se=직목 일치/간목 무일치) · avoir + 앞 COD 일치 · croire à → y · **run-on 분할** · 엘리지옹(고질) · faisait 철자.
+- **복수 주어/선행사 → 복수 동사** (수 일치) · **on = 동사 3인칭 단수** — 8/4 논증글 반복 (긴 글서 미끄러짐)
+- 이동 동사 = être(arriver/partir/sortir) · se transformer en · arrêter de + 부정사 · si절 조건법 금지 · 주어 같으면 부정사 · 재귀 성수일치(se=직목 일치/간목 무일치) · être+p.p.→주어 일치(수동·대명·이동 통합) · avoir + 앞 COD 일치 · croire à → y · **run-on 분할** · 엘리지옹(고질) · faisait 철자.
+- **다음 세션 focus (사용자 요청)**: **y/en 집중 연습·작문** (능동화 덜 됨).
+- ⚠️ **어휘(성) vs 규칙 구분**: 단어 성(calme 남·nouvelle 여) 오류는 드릴 X, 어휘 풀 누적만. 규칙 있는 것만 훈련.
 
 ### 학습 시스템 개선 (사용자 주도 — 메모리 반영)
 1. encoding-first(massed→간격) + 첨삭 ❌틀림/△덜자연 구분 (6/23~24)

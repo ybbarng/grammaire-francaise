@@ -2525,6 +2525,21 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | depuis (그 이후로 계속) | 전치사 | - | ~이래로 (+현재, 지속) |
 | tous ceux que + 절 | 구문 | - | ~하는 모든 사람들 |
 | croire à qch → y (j'y crois) | 구문 | - | ~을 믿다 (대명사 y, en 아님) |
+| la beauté du vide | 표현 | 여 | 여백의 미 |
+| un flot / un déluge d'informations | 명사 | 남 | 정보의 홍수·쏟아짐 (submergé/inondé d'informations) |
+| la surabondance | 명사 | 여 | 과잉 (정적) |
+| laisser une marge (suffisante) | 표현 | - | (충분한) 여백을 남기다 |
+| la concentration sur l'essentiel | 표현 | 여 | 본질에 대한 집중 |
+| apporter (le calme·la stabilité) | 동사 | - | (추상 감정을) 가져다주다 |
+| le calme (남) | 명사 | 남 | 고요·평온 (la calme ❌) |
+| une nouvelle (여) / les nouvelles | 명사 | 여 | 소식·뉴스 |
+| dès que + 절 | 접속사 | - | ~하자마자 (= aussitôt que) |
+| tandis que + 절 | 접속사 | - | ~인 반면 (종속 대조; en revanche는 부사) |
+| exprimer son opinion (≠ parler son opinion) | 표현 | - | 의견을 표현하다 (parler은 내용 목적어 X) |
+| il est de notre devoir de + 부정사 | 구문 | - | ~하는 것은 우리의 의무다 (격식; il=비인칭 가주어) |
+| se disputer / se bagarrer | 동사 (재귀) | - | 다투다 (on se dispute — 동사 3인칭 단수) |
+| se répandre | 동사 (재귀) | - | 퍼지다 (les nouvelles se répandent) |
+| à sept heures du matin | 표현 | - | 오전 7시에 (à+시각+du matin/soir) |
 | ne pas arriver à + 부정사 | 구문 | - | ~할 수 없다·~하지 못하다 |
 | faire le tour du monde | 표현 | - | 세계 일주를 하다 (관사 le) |
 | acheter (철자, 악상 없음) | 동사 | - | 사다 (achéter ❌) |
