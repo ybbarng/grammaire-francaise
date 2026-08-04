@@ -1,24 +1,52 @@
-# 다음 세션 목표 (current)
+# 다음 세션 (current)
 
-> 세션마다 Claude Code가 갱신. ChatGPT 세션 시작 시 이 내용을 붙여넣거나 참고.
-> 갱신: 2026-08-04 (음성 세션 2 후)
+> Claude Code가 세션마다 갱신. 대상 = 다음 음성 세션. 갱신: 2026-08-04 (음성 세션 2 후).
+> ChatGPT는 이 파일을 **못 읽어도 됨** — 아래 "붙여넣기용 3줄"만 첫 메시지로 넣으면 정밀 targeting, 안 넣으면 프로젝트 메모리로 자동 진행.
 
-## 오늘의 목표 (최대 2개)
+## 붙여넣기용 3줄 (선택 — 정밀 targeting 원할 때 첫 메시지로)
 
-1. **travailler de chez moi** — 재택근무를 "chez moi / de chez moi"로. (8/3·8/4 "à chez moi"·"dans chez moi" 반복 실패 → 1순위)
-2. **parce que 이유 2문장** — "재택이 좋다, **parce que** 큰 창이 있고 하늘을 볼 수 있다"처럼 이유를 두 절로 연결.
+```
+오늘 목표: ① travailler de chez moi(chez 전치사) ② parce que로 이유를 두 절로 연결.
+복습: "Pardon" 대신 "Vous pouvez répéter, s'il vous plaît ?".
+주제는 재택근무/게임 등 익숙한 걸로, 질문은 짧게.
+```
 
-## 복습 (Retrieval mode 첫 2~3분)
+---
 
-- 생존 표현 격상: "Pardon" → **Vous pouvez répéter, s'il vous plaît ?** / **Plus lentement, s'il vous plaît.**
-- depuis + 기간(현재형): "j'apprends le français depuis trois ans" 도움 없이.
+## 이번 세션
 
-## 모니터링 (교정은 대화 후에만)
+- **유형**: 목표 훈련 대화 (막지 말고 상황으로 유도)
+- **주제**: 재택근무·출근 (익숙 주제로 발화량 유지)
+- **길이**: 10\~15분
 
-- 인칭 혼동 (본인=je, "Vous jouez" ❌)
-- je + 동사 활용 ("je ne travaille pas")
-- 긴 질문 이해 실패 → 되묻기로 대응
+## 목표 (최대 2개)
 
-## 시나리오 제안
+1. **travailler de chez moi**
+   - 이유: 전치사 반복 실패 (à/dans chez moi, 8/3·8/4 연속)
+   - 유도: 무슨 요일에 재택하는지 묻기
+2. **parce que + 이유절 (2문장 연결)**
+   - 이유: 이유를 단어로만 말함
+   - 유도: 왜 집에서 일하는 게 좋은지 묻기
 
-재택근무 상세 or 게임 대회(파리) — 익숙 주제로 발화량 유지하며 위 목표 유도.
+## 복습 (도움 없이 인출 유도 — 막지는 않음)
+
+- **Vous pouvez répéter, s'il vous plaît ?** (← "Pardon" 격상)
+- **j'apprends le français depuis trois ans** (depuis + 기간, 현재형)
+
+## 반복 문제 (모니터링 — 즉시 교정 X)
+
+- 10단어 넘는 질문 이해 실패 → 짧게 되묻기로 대응
+- 답변이 단어 수준에 머무름 → 짧은 문장 유도
+- 인칭 혼동(본인=je), je 동사활용 누락(je ne travaille pas)
+
+## 지원 정책
+
+- 속도: 느리게 · 질문: 짧게(10단어) · 교정: 낮게 · 한국어: 최후 수단
+
+## 최근 주제 (반복 회피)
+
+- 재택근무 / 프랑스어 책(HP·Le Petit Prince) / Overwatch
+
+## 이번 세션에서 피할 것
+
+- 같은 질문을 단순화 없이 반복 · 과한 칭찬 · 명시적 목표 3개 이상
