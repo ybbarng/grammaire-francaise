@@ -60,8 +60,9 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지; quand+사건=PC) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X | (7/19~23 실전 정확 반복; Je dormais quand le téléphone a sonné) | 2026-07-18 | 2026-08-03 | 5 |
-| grammaire | W | 대명동사(재귀)는 복합과거·반과거에서 조동사 être + 재귀대명사 | je me suis dit / je m'inquiétais / on s'est levé | m'a dit ❌ / m'a inquiétais ❌ (고질, 8/2 재발) | 2026-08-02 | 2026-08-03 | 0 |
+| grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지; quand+사건=PC) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X | (7/19~23 실전 정확; 8/6 워밍업 정확) | 2026-07-18 | 2026-08-20 | 6 |
+| grammaire | W | 대명동사(재귀)는 복합과거·반과거에서 조동사 être + 재귀대명사 | je me suis dit / je m'inquiétais / on s'est levé | m'a dit ❌ / m'a inquiétais ❌ (8/6 워밍업·재드릴 정확) | 2026-08-02 | 2026-08-09 | 1 |
+| grammaire | S | **je + (ne)+대명사 + ai/avais** (조동사 사이삽입 시 a/avait로 미끄러짐; je는 항상 ai/avais) | j'en ai / je l'ai / je ne lui ai / je n'en avais — a·avait는 il/elle/on 전용 | je l'a·je n'a·j'avait ❌ (8/6 일기 2회 재발; 코퍼스 m'a ×5) / **재귀 me suis는 안전** | 2026-08-06 | 2026-08-07 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
@@ -97,8 +98,8 @@
 | cliché | S | entendre(들리다) ≠ écouter(경청) · emmener(데려가다) ≠ entraîner | hear≠listen / 사람 데려가다=emmener | entendre l'explication △ / nous a entraîné ❌ | 2026-08-02 | 2026-08-03 | 0 |
 | grammaire | W | croire à qch → y (en 아님) | j'y crois / je n'y croyais pas | je n'en croyais ❌ | 2026-08-03 | 2026-08-04 | 0 |
 | grammaire | W | 재귀 성수일치: se=직목→일치 / se=간목→무일치 | 무일치 목록: se parler·dire·téléphoner·demander·rendre compte 등; 기본은 일치 | s'est transformé ❌→transformée / s'est dite ❌(dit 고정) | 2026-08-03 | 2026-08-04 | 0 |
-| grammaire | W | **복수 주어/선행사 → 복수 동사** (수 일치) | les nouvelles disparaissent / qui agitent | est partagé·agite·disparaît ❌ (긴 글서 미끄러짐) | 2026-08-04 | 2026-08-05 | 0 |
-| grammaire | W | **on = 동사 3인칭 단수** (과거분사·형용사만 복수 일치) | on se dispute / on est arrivés(과거분사만) | on se bagarrons·connaissions ❌ | 2026-08-04 | 2026-08-05 | 0 |
+| grammaire | W | **복수 주어/선행사 → 복수 동사** (수 일치) | les nouvelles disparaissent / qui agitent | est partagé·agite·disparaît ❌ (8/6 워밍업 정확) | 2026-08-04 | 2026-08-09 | 1 |
+| grammaire | W | **on = 동사 3인칭 단수** (과거분사·형용사만 복수 일치) | on se dispute / on est arrivés(과거분사만) | on se bagarrons·connaissions ❌ (8/6 워밍업 정확) | 2026-08-04 | 2026-08-09 | 1 |
 | grammaire | W | être + 과거분사 → 주어 성수일치 (수동·대명·이동 통합; avoir 무일치) | sont partagées / a été invitée | est partagé ❌ | 2026-08-04 | 2026-08-05 | 0 |
 | cliché | S | 구별 동사: parler/dire·exprimer(구조) · entendre/écouter(의미) | 한국어가 합친 것 | parler son opinion ❌ → exprimer | 2026-08-04 | 2026-08-05 | 0 |
 | chunk | S | tenir sa promesse | 약속을 지키다 (tenir: il tient) | tien se promesse ❌ → tient sa | 2026-07-31 | 2026-08-01 | 0 |
@@ -175,6 +176,12 @@
 | cliché | S | en dehors de | ~밖에·외부에 | dehors Buzzvil ❌ | 2026-06-22 | 2026-06-25 | 0 |
 | cliché | S | chercher sur Internet | 인터넷에서 검색하다 | rechercher l'internet ❌ | 2026-06-22 | 2026-06-25 | 0 |
 | formule | S | Je veux dire… / C'est dommage | 내 말은~ / 아쉽다 | (잘 씀, 강화) | 2026-06-22 | 2026-06-25 | 0 |
+| grammaire | S | **en → 과거분사 무일치** (앞 직목처럼 보여도 X) | j'en ai lu deux/quelques-uns (lu 불변) · 대조 le/les는 일치(je les ai lus) | j'en ai lus ❌ (8/6) | 2026-08-06 | 2026-08-07 | 0 |
+| grammaire | S | le/la/les(특정·한정) ↔ en(불특정·비한정 양) | 그 케이크 je le mange / 케이크 좀·불특정 j'en mange (다 먹어도 불특정이면 en) | 특정↔부분 혼동 | 2026-08-06 | 2026-08-07 | 0 |
+| grammaire | S | y = 장소 전치사구(à/dans/sur/en/chez+장소)→거기 / de+장소→en | j'y vais(dans/à/chez) ↔ j'en viens(de) | dans/chez 장소 미대명사화 | 2026-08-06 | 2026-08-07 | 0 |
+| grammaire | S | demander/ordonner qch **à** qqn → lui (COI, 무일치) | 사람=간접목적어 lui/leur (l' 아님) | je ne l'ai ordonnée ❌ → je ne lui ai … ordonné (8/6) | 2026-08-06 | 2026-08-07 | 0 |
+| grammaire | S | c'était/on était + 요일 (il était ❌) | 요일·날짜는 ce/on; il est는 시각(il est 3h) | il était mercredi △ | 2026-08-06 | 2026-08-07 | 0 |
+| formule | W | C'était la première fois que + 반과거 | ~한 건 처음이었다 | mon premier pas que ❌ | 2026-08-06 | 2026-08-07 | 0 |
 
 ## T3 — 간격 반복 (정착)
 
@@ -182,7 +189,7 @@
 |---|---|---|---|---|---|---|---|
 | grammaire | W | comme si + 반과거(현재 비현실)/대과거(과거 비현실) | comme s'il était millionnaire / comme si j'avais gagné · 대과거 aux 주의(rencontrer=avoir) | comme si + 현재·PC ❌ (7/21 n'a compris→n'avait) | 2026-07-18 | 2026-07-24 | 3일 |
 | grammaire | W | comme si de rien n'était(관용, se 없음·n'était) / comme s'il ne s'était rien passé(se passer 대과거, il 고정) | 아무 일도 없었던 것처럼 | de rien s'était ❌ / il 누락 (7/28 자유 인출 2회 정착) | 2026-07-28 | 2026-07-31 | 3일 |
-| grammaire | W | **comme si + 대과거 형성** (avait + 과거분사) — active 되돌림 | comme s'il n'avait rien su/vu/entendu (부정사 X, 과거분사 O; ne...rien) | comme s'il n'a rien entendu ❌(PC 금지) / avaient pas savoir ❌→rien su | 2026-08-03 | 2026-08-04 | 0 |
+| grammaire | W | **comme si + 대과거 형성** (avait + 과거분사) — active 되돌림 | comme s'il n'avait rien su/vu/entendu (부정사 X, 과거분사 O; ne...rien) | comme s'il n'a rien entendu ❌(PC 금지) (8/6 워밍업 정확·이유 설명) | 2026-08-03 | 2026-08-09 | 3일 |
 
 ## T4 — 참조 보관 (능동 학습 X)
 

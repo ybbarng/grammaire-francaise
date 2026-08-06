@@ -2547,6 +2547,10 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | se transformer / se laver / se lever — 일치 | 동사 (재귀) | - | se=직접목적어라 주어와 과거분사 일치 (transformée 등) |
 | se promener (미래 promènerai) | 동사 (재귀) | - | 산책하다 (acheter 계열: 미래·조건법 è) |
 | au début du mois | 표현 | - | 월초에 |
+| un logiciel | 명사 (남) | - | 소프트웨어 (développer des logiciels) |
+| un token / des tokens | 명사 | - | (개발) 토큰 — 프랑스 개발자도 통용; jeton=공식·순화 |
+| recharger | 동사 | - | 재충전·충전하다 (elle les rechargerait le lendemain) |
+| la première fois que + 반과거 | 구문 | - | ~한 것은 처음이었다 (C'était la première fois que je l'utilisais) |
 
 
 
