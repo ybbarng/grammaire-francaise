@@ -2551,6 +2551,14 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | un token / des tokens | 명사 | - | (개발) 토큰 — 프랑스 개발자도 통용; jeton=공식·순화 |
 | recharger | 동사 | - | 재충전·충전하다 (elle les rechargerait le lendemain) |
 | la première fois que + 반과거 | 구문 | - | ~한 것은 처음이었다 (C'était la première fois que je l'utilisais) |
+| jouer à + 게임 (→ y) | 표현 | - | (게임)을 하다 (jouer à Overwatch / y jouer) — 캐릭터는 직접목적어(jouer Ana → je l'ai jouée) |
+| viser / la visée | 동사·명사 | 여 | 조준하다 / 조준·에임 (travailler sa visée) |
+| une partie personnalisée | 표현 | 여 | (게임) 사용자 지정·커스텀 게임 |
+| créer (≠ crier) | 동사 | - | 만들다·생성하다 (crier=외치다와 발음 유사 주의) |
+| parmi (≠ entre) | 전치사 | - | (셋 이상) ~ 중에서 (entre=둘 사이) |
+| un héros / une héroïne | 명사 | 남/여 | 영웅·주인공 (les héros: h 유음 취급 — 리에종 X) |
+| de suite / d'affilée | 부사구 | - | 연달아·잇달아 (successivement보다 일상적) |
+| une grand-mère | 명사 | 여 | 할머니 |
 
 
 

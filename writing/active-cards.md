@@ -61,8 +61,8 @@
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
 | grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지; quand+사건=PC) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X | (7/19~23 실전 정확; 8/6 워밍업 정확) | 2026-07-18 | 2026-08-20 | 6 |
-| grammaire | W | 대명동사(재귀)는 복합과거·반과거에서 조동사 être + 재귀대명사 | je me suis dit / je m'inquiétais / on s'est levé | m'a dit ❌ / m'a inquiétais ❌ (8/6 워밍업·재드릴 정확) | 2026-08-02 | 2026-08-09 | 1 |
-| grammaire | S | **je + (ne)+대명사 + ai/avais** (조동사 사이삽입 시 a/avait로 미끄러짐; je는 항상 ai/avais) | j'en ai / je l'ai / je ne lui ai / je n'en avais — a·avait는 il/elle/on 전용 | je l'a·je n'a·j'avait ❌ (8/6 일기 2회 재발; 코퍼스 m'a ×5) / **재귀 me suis는 안전** | 2026-08-06 | 2026-08-07 | 0 |
+| grammaire | W | 대명동사(재귀)는 복합과거·반과거에서 조동사 être + 재귀대명사 | je me suis dit / je m'inquiétais / on s'est levé | m'a dit ❌ / m'a inquiétais ❌ (8/6 워밍업·재드릴 정확; 8/7 je me suis couché ✅) | 2026-08-02 | 2026-08-14 | 2 |
+| grammaire | S | **je + (ne)+대명사 + ai/avais** (조동사 사이삽입 시 a/avait로 미끄러짐; je는 항상 ai/avais) | j'en ai / je l'ai / je ne lui ai / je n'en avais — a·avait는 il/elle/on 전용 | je l'a·je n'a·j'avait ❌ (8/6 일기 2회 재발; 코퍼스 m'a ×5) / **재귀 me suis는 안전** · 8/7 번역 j'en ai lu·je les ai·je n'y suis 무슬립 ✅ | 2026-08-06 | 2026-08-10 | 1 |
 
 ## T2 — 단기 복습 (5\~10개)
 
@@ -120,7 +120,7 @@
 | formule | W | il n'y a pas de meilleur(e) X que Y | Y보다 나은 X는 없다 | ce n'est la meilleure méthode que ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | chunk | S | faire les accords / lire les partitions | 코드를 잡다 / 악보를 읽다 | attraper l'accord ❌ (calque) | 2026-07-08 | 2026-07-09 | 0 |
 | grammaire | W | ce qui(주어) ↔ ce que(목적어) | "~하는 것" — Ce qui + 동사, c'est + 명사 / ce que + 주어+동사 | C'est important qui… ❌ (선행사 없음) / ce que influence ❌ | 2026-07-06 | 2026-07-09 | 1 |
-| chunk | S | s'entraîner à + 부정사 / pratiquer | 연습·훈련하다 (s'entraîner **à**) | exerciser ❌ / m'entraîne parler → à parler | 2026-07-07 | 2026-07-11 | 1 |
+| chunk | S | s'entraîner à + 부정사 / travailler qch(직접) | 연습·훈련하다 (s'entraîner **à** viser / travailler sa visée) | exerciser ❌ / m'entraîne parler → à parler / s'entraîner sa visée ❌ (8/7 재발 →à viser) | 2026-07-07 | 2026-08-08 | 1 |
 | chunk | S | faire des progrès en + 언어 | ~ 실력이 늘다 | de compétence pour ❌ (calque) | 2026-07-07 | 2026-07-08 | 0 |
 | cliché | S | facilement (부사) ≠ facile (형용사) | 동사 수식은 부사 | français facile ❌ / facile séparer ❌ (재발 7/21) | 2026-07-07 | 2026-07-22 | 0 |
 | chunk | W | c'est/il est + 형용사 + de + 부정사 | "~하는 것은 ~하다" (절 X, 부정사 O) | c'est facile qu'on arrive ❌ → d'arriver | 2026-07-05 | 2026-07-12 | 2 |
@@ -137,7 +137,7 @@
 | chunk | W | après s'être + p.p. (재귀 부정사과거) | "~한 후에" 재귀동사 (재귀대명사 유지) | après être réveillé ❌ → m'être | 2026-07-02 | 2026-07-06 | 3 |
 | cliché | S | nouveau(앞)/nouvel(모음앞)/nouvelle(여) ↔ neuf(뒤, 신품) | un nouvel ordinateur / un ordinateur neuf | un neuf ordinateur ❌ | 2026-07-03 | 2026-07-12 | 1 |
 | cliché | S | cette chambre (chambre 여성) | 방 (la chambre) | ce chambre ❌ | 2026-07-03 | 2026-07-04 | 0 |
-| cliché | W | avoir + 앞 직목(que) → 과거분사 일치 | que j'ai achetées (chemises 여복) | que j'ai monté ❌ | 2026-07-03 | 2026-07-08 | 1 |
+| cliché | W | avoir + 앞 직목(que·le/la/les) → 과거분사 일치 (en·간목 lui는 무일치) | que j'ai achetées / je les ai écrites / je l'ai jouée | que j'ai monté ❌ / 8/7 je les ai écrites·je l'ai jouée·elle l'y a travaillée ✅ | 2026-07-03 | 2026-08-14 | 2 |
 | chunk | W | après + avoir/être + p.p. (infinitif passé) | "~한 후에" (주절보다 선행, être면 주어 일치) | après passer ❌ / être 일치 누락(rentré→rentrée) | 2026-06-24 | 2026-07-05 | 5 |
 | cliché | W | 재귀동사 복합과거 일치: se=COD→일치 / se=COI→무일치 | s'est lavée vs s'est lavé les mains / se sont parlé(à) / 본질재귀=주어일치, 예외 s'est rendu compte | "재귀=무조건 일치" 과잉일반화 | 2026-06-24 | 2026-07-05 | 3 |
 | grammaire | W | quand + 미래시제 (futur) | "~할 때"(미래)는 불어는 futur | quand j'ai ❌ → j'aurai (7/3 워밍업 오답 → 작문서 정확) | 2026-07-02 | 2026-07-05 | 1 |
@@ -165,7 +165,7 @@
 | chunk | S | transports en commun | 대중교통 | La transport ❌ / des tas de transport ❌ | 2026-06-22 | 2026-06-26 | 1 |
 | cliché | S | S'il (엘리지옹) | Si + il → S'il | Si il ❌ (재발) | 2026-06-22 | 2026-06-25 | 0 |
 | chunk | W | préférer A plutôt que B | A를 B보다 선호 | plus vivre que ❌ / plutôt que à → qu'à | 2026-06-22 | 2026-07-08 | 1 |
-| chunk | S | jouer à + 게임 | (게임)을 하다 | faire le jeu ❌ / jouer Overwatch ❌ | 2026-06-22 | 2026-07-06 | 1 |
+| chunk | S | **jouer à + 게임** (→ 대명사 y) ↔ **jouer + 캐릭터**(직접목적어 → le/la 성일치) | jouer à Overwatch / y jouer ↔ jouer Ana → je l'ai jouée | jouer Overwatch·Nous l'avons joué ❌ (8/7 재발, à 자체 누락) / 단 캐릭터 Je l'ai jouée ✅ (8/7 구별 성공) | 2026-06-22 | 2026-08-08 | 1 |
 | chunk | W | un entraînement à l'écriture | 작문 훈련 | s'exercer 작문 ❌ | 2026-06-22 | 2026-06-25 | 0 |
 | chunk | S | pour progresser | 실력을 늘리려고 | — | 2026-06-22 | 2026-06-25 | 0 |
 | cliché | S | quelque chose (불변 단수) | 무언가 | quelque choses ❌ | 2026-06-22 | 2026-06-25 | 0 |
@@ -176,12 +176,15 @@
 | cliché | S | en dehors de | ~밖에·외부에 | dehors Buzzvil ❌ | 2026-06-22 | 2026-06-25 | 0 |
 | cliché | S | chercher sur Internet | 인터넷에서 검색하다 | rechercher l'internet ❌ | 2026-06-22 | 2026-06-25 | 0 |
 | formule | S | Je veux dire… / C'est dommage | 내 말은~ / 아쉽다 | (잘 씀, 강화) | 2026-06-22 | 2026-06-25 | 0 |
-| grammaire | S | **en → 과거분사 무일치** (앞 직목처럼 보여도 X) | j'en ai lu deux/quelques-uns (lu 불변) · 대조 le/les는 일치(je les ai lus) | j'en ai lus ❌ (8/6) | 2026-08-06 | 2026-08-07 | 0 |
-| grammaire | S | le/la/les(특정·한정) ↔ en(불특정·비한정 양) | 그 케이크 je le mange / 케이크 좀·불특정 j'en mange (다 먹어도 불특정이면 en) | 특정↔부분 혼동 | 2026-08-06 | 2026-08-07 | 0 |
-| grammaire | S | y = 장소 전치사구(à/dans/sur/en/chez+장소)→거기 / de+장소→en | j'y vais(dans/à/chez) ↔ j'en viens(de) | dans/chez 장소 미대명사화 | 2026-08-06 | 2026-08-07 | 0 |
+| grammaire | S | **en → 과거분사 무일치** (앞 직목처럼 보여도 X) | j'en ai lu deux/quelques-uns (lu 불변) · 대조 le/les는 일치(je les ai lus) | j'en ai lus ❌ (8/6) / 8/7 j'en ai lu trois ✅ | 2026-08-06 | 2026-08-10 | 1 |
+| grammaire | S | le/la/les(특정·한정) ↔ en(불특정·비한정 양) | 그 케이크 je le mange / 케이크 좀·불특정 j'en mange (다 먹어도 불특정이면 en) | 특정↔부분 혼동 / 8/7 je les ai écrites·j'en ai lu ✅ | 2026-08-06 | 2026-08-10 | 1 |
+| grammaire | S | y = 장소 전치사구(à/dans/sur/en/chez+장소)→거기 / de+장소→en | j'y vais(dans/à/chez) ↔ j'en viens(de) | dans/chez 장소 미대명사화 / 8/7 je n'y suis pas allé ✅ | 2026-08-06 | 2026-08-10 | 1 |
 | grammaire | S | demander/ordonner qch **à** qqn → lui (COI, 무일치) | 사람=간접목적어 lui/leur (l' 아님) | je ne l'ai ordonnée ❌ → je ne lui ai … ordonné (8/6) | 2026-08-06 | 2026-08-07 | 0 |
 | grammaire | S | c'était/on était + 요일 (il était ❌) | 요일·날짜는 ce/on; il est는 시각(il est 3h) | il était mercredi △ | 2026-08-06 | 2026-08-07 | 0 |
 | formule | W | C'était la première fois que + 반과거 | ~한 건 처음이었다 | mon premier pas que ❌ | 2026-08-06 | 2026-08-07 | 0 |
+| cliché | S | **parmi** (셋 이상 중에서) ≠ **entre** (둘 사이) | parmi les héros / entre toi et moi | Entre les héros ❌ → Parmi (8/7) | 2026-08-07 | 2026-08-08 | 0 |
+| cliché | S | **créer**(만들다) ≠ **crier**(외치다) | elle a créé une partie / il a crié | elle a crié une partie ❌ → a créé (8/7, 발음 유사 함정) | 2026-08-07 | 2026-08-08 | 0 |
+| grammaire | S | 과거 사실=복합과거; **aller + 과거분사 ❌** (futur proche는 aller + 부정사) | nous avons gagné (과거) / nous allons gagner (곧) | nous allons gagné ❌ (8/7) | 2026-08-07 | 2026-08-08 | 0 |
 
 ## T3 — 간격 반복 (정착)
 
@@ -232,6 +235,8 @@
 | chunk | S | une aurore boréale / une éclipse solaire totale | 오로라 / 개기일식 | — | 2026-08-02 | 참조 |
 | chunk | S | un long temps de pose / un casque de VR / la pollution lumineuse / des arbres enneigés | 긴 노출 / VR 헤드셋 / 광공해 / 눈 덮인 나무 | — | 2026-08-02 | 참조 |
 | cliché | S | dormir(자다, 재귀 X) ≠ s'endormir(잠들다, 재귀) | faire semblant de dormir | se dormir ❌ | 2026-07-31 | 참조 |
+| chunk | S | de suite / d'affilée (연달아) ↔ successivement(격식·차례로) | gagner plusieurs matchs de suite | successivement △ (딱딱) | 2026-08-07 | 참조 |
+| chunk | S | viser / la visée / une partie personnalisée | 조준하다 / 조준 / 사용자 지정 게임 | (게임 어휘) | 2026-08-07 | 참조 |
 
 ---
 
