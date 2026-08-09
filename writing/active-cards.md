@@ -63,6 +63,7 @@
 | grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지; quand+사건=PC) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X | (7/19~23 실전 정확; 8/6 워밍업 정확) | 2026-07-18 | 2026-08-20 | 6 |
 | grammaire | W | 대명동사(재귀)는 복합과거·반과거에서 조동사 être + 재귀대명사 | je me suis dit / je m'inquiétais / on s'est levé | m'a dit ❌ / m'a inquiétais ❌ (8/6 워밍업·재드릴 정확; 8/7 je me suis couché ✅) | 2026-08-02 | 2026-08-14 | 2 |
 | grammaire | S | **je + (ne)+대명사 + ai/avais** (조동사 사이삽입 시 a/avait로 미끄러짐; je는 항상 ai/avais) | j'en ai / je l'ai / je ne lui ai / je n'en avais — a·avait는 il/elle/on 전용 | je l'a·je n'a·j'avait ❌ (8/6 일기 2회 재발; 코퍼스 m'a ×5) / **재귀 me suis는 안전** · 8/7 번역 j'en ai lu·je les ai·je n'y suis 무슬립 ✅ | 2026-08-06 | 2026-08-10 | 1 |
+| grammaire | S | **조동사·양태동사 뒤=원형 / avoir 뒤=과거분사** (둘째 동사를 활용형으로 쓰지 말 것) | je pouvais le **résoudre** / j'ai **résolu** / je veux **partir** — pouvais/ai + 활용형(résolvais) ❌ | je pouvais le résolvais·je l'ai résolvais·le porte ❌ (8/9 최다) / résoudre 과거분사=résolu(≠반과거 résolvais) | 2026-08-09 | 2026-08-10 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
@@ -111,7 +112,7 @@
 | cliché | S | un média (남성, 복수 les médias) | 매체 | les nombreuses médias ❌ → nombreux | 2026-07-15 | 2026-07-16 | 0 |
 | chunk | S | être en (bonne/mauvaise) forme | 컨디션이 좋다/나쁘다 | avoir mauvaise forme ❌ | 2026-07-15 | 2026-07-16 | 0 |
 | cliché | S | 직업·직책은 무관사 (elle est rédactrice / PM) | être + 직업 (un/une 생략) | un rédactrice ❌ | 2026-07-15 | 2026-07-16 | 0 |
-| grammaire | W | 동사 + 전치사 (à/de/sur…; sur+명사) | essayer de / se concentrer **sur+명사** / rêver de / décider de / apprendre à | essayer jouer ❌ / décide la démission ❌ | 2026-07-08 | 2026-07-16 | 3 |
+| grammaire | W | 동사 + 전치사 (à/de/sur…; sur+명사) | aller **à** / s'inscrire **à** / se concentrer **sur** / essayer de / rêver de / décider de / apprendre à | allé la réunion·inscrit le café·concentrais que les études ❌ (8/9 전치사 누락 3건) | 2026-07-08 | 2026-08-10 | 3 |
 | grammaire | W | depuis + 기간 + 현재 (~한 지 ~째) | J'apprends depuis 3 ans (지속) | il y a 3 ans(=~전) 혼동 | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | on dit que (사람들이 ~라고 한다) | ~라고들 한다 | on parle que ❌ | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | à + 도시 (무관사) | ~에 (도시) | au Paris ❌ → à Paris | 2026-07-13 | 2026-07-14 | 0 |
@@ -120,7 +121,7 @@
 | formule | W | il n'y a pas de meilleur(e) X que Y | Y보다 나은 X는 없다 | ce n'est la meilleure méthode que ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | chunk | S | faire les accords / lire les partitions | 코드를 잡다 / 악보를 읽다 | attraper l'accord ❌ (calque) | 2026-07-08 | 2026-07-09 | 0 |
 | grammaire | W | ce qui(주어) ↔ ce que(목적어) | "~하는 것" — Ce qui + 동사, c'est + 명사 / ce que + 주어+동사 | C'est important qui… ❌ (선행사 없음) / ce que influence ❌ | 2026-07-06 | 2026-07-09 | 1 |
-| chunk | S | s'entraîner à + 부정사 / travailler qch(직접) | 연습·훈련하다 (s'entraîner **à** viser / travailler sa visée) | exerciser ❌ / m'entraîne parler → à parler / s'entraîner sa visée ❌ (8/7 재발 →à viser) | 2026-07-07 | 2026-08-08 | 1 |
+| chunk | S | s'entraîner à + 부정사 / travailler qch(직접) | 연습·훈련하다 (s'entraîner **à** viser / travailler sa visée) | exerciser ❌ / s'entraîner sa visée ❌ (8/7) / 8/8~9 à viser·à le résoudre·je m'entraînais ✅ | 2026-07-07 | 2026-08-12 | 2 |
 | chunk | S | faire des progrès en + 언어 | ~ 실력이 늘다 | de compétence pour ❌ (calque) | 2026-07-07 | 2026-07-08 | 0 |
 | cliché | S | facilement (부사) ≠ facile (형용사) | 동사 수식은 부사 | français facile ❌ / facile séparer ❌ (재발 7/21) | 2026-07-07 | 2026-07-22 | 0 |
 | chunk | W | c'est/il est + 형용사 + de + 부정사 | "~하는 것은 ~하다" (절 X, 부정사 O) | c'est facile qu'on arrive ❌ → d'arriver | 2026-07-05 | 2026-07-12 | 2 |
@@ -138,7 +139,7 @@
 | cliché | S | nouveau(앞)/nouvel(모음앞)/nouvelle(여) ↔ neuf(뒤, 신품) | un nouvel ordinateur / un ordinateur neuf | un neuf ordinateur ❌ | 2026-07-03 | 2026-07-12 | 1 |
 | cliché | S | cette chambre (chambre 여성) | 방 (la chambre) | ce chambre ❌ | 2026-07-03 | 2026-07-04 | 0 |
 | cliché | W | avoir + 앞 직목(que·le/la/les) → 과거분사 일치 (en·간목 lui는 무일치) | que j'ai achetées / je les ai écrites / je l'ai jouée | que j'ai monté ❌ / 8/7 je les ai écrites·je l'ai jouée·elle l'y a travaillée ✅ | 2026-07-03 | 2026-08-14 | 2 |
-| chunk | W | après + avoir/être + p.p. (infinitif passé) | "~한 후에" (주절보다 선행, être면 주어 일치) | après passer ❌ / être 일치 누락(rentré→rentrée) | 2026-06-24 | 2026-07-05 | 5 |
+| chunk | W | après + avoir/être + p.p. (infinitif passé) | "~한 후에" (주절보다 선행, être면 주어 일치) | après passer ❌ / Après j'ai appris ❌ (8/9 재발) → après avoir appris | 2026-06-24 | 2026-08-10 | 5 |
 | cliché | W | 재귀동사 복합과거 일치: se=COD→일치 / se=COI→무일치 | s'est lavée vs s'est lavé les mains / se sont parlé(à) / 본질재귀=주어일치, 예외 s'est rendu compte | "재귀=무조건 일치" 과잉일반화 | 2026-06-24 | 2026-07-05 | 3 |
 | grammaire | W | quand + 미래시제 (futur) | "~할 때"(미래)는 불어는 futur | quand j'ai ❌ → j'aurai (7/3 워밍업 오답 → 작문서 정확) | 2026-07-02 | 2026-07-05 | 1 |
 | chunk | S | s'entraîner à + 동사원형 | ~하는 걸 연습하다 | s'entraîner que ❌ | 2026-07-02 | 2026-07-03 | 0 |
@@ -165,7 +166,7 @@
 | chunk | S | transports en commun | 대중교통 | La transport ❌ / des tas de transport ❌ | 2026-06-22 | 2026-06-26 | 1 |
 | cliché | S | S'il (엘리지옹) | Si + il → S'il | Si il ❌ (재발) | 2026-06-22 | 2026-06-25 | 0 |
 | chunk | W | préférer A plutôt que B | A를 B보다 선호 | plus vivre que ❌ / plutôt que à → qu'à | 2026-06-22 | 2026-07-08 | 1 |
-| chunk | S | **jouer à + 게임** (→ 대명사 y) ↔ **jouer + 캐릭터**(직접목적어 → le/la 성일치) | jouer à Overwatch / y jouer ↔ jouer Ana → je l'ai jouée | jouer Overwatch·Nous l'avons joué ❌ (8/7 재발, à 자체 누락) / 단 캐릭터 Je l'ai jouée ✅ (8/7 구별 성공) | 2026-06-22 | 2026-08-08 | 1 |
+| chunk | S | **jouer à + 게임** (→ 대명사 y) ↔ **jouer + 캐릭터**(직접목적어 → le/la 성일치) | jouer à Overwatch / y jouer ↔ jouer Ana → je l'ai jouée | jouer Overwatch·Nous l'avons joué ❌ (8/7 재발) / 8/8 워밍업 jouer à Overwatch·j'ai joué Ana ✅ | 2026-06-22 | 2026-08-12 | 2 |
 | chunk | W | un entraînement à l'écriture | 작문 훈련 | s'exercer 작문 ❌ | 2026-06-22 | 2026-06-25 | 0 |
 | chunk | S | pour progresser | 실력을 늘리려고 | — | 2026-06-22 | 2026-06-25 | 0 |
 | cliché | S | quelque chose (불변 단수) | 무언가 | quelque choses ❌ | 2026-06-22 | 2026-06-25 | 0 |
@@ -182,9 +183,12 @@
 | grammaire | S | demander/ordonner qch **à** qqn → lui (COI, 무일치) | 사람=간접목적어 lui/leur (l' 아님) | je ne l'ai ordonnée ❌ → je ne lui ai … ordonné (8/6) | 2026-08-06 | 2026-08-07 | 0 |
 | grammaire | S | c'était/on était + 요일 (il était ❌) | 요일·날짜는 ce/on; il est는 시각(il est 3h) | il était mercredi △ | 2026-08-06 | 2026-08-07 | 0 |
 | formule | W | C'était la première fois que + 반과거 | ~한 건 처음이었다 | mon premier pas que ❌ | 2026-08-06 | 2026-08-07 | 0 |
-| cliché | S | **parmi** (셋 이상 중에서) ≠ **entre** (둘 사이) | parmi les héros / entre toi et moi | Entre les héros ❌ → Parmi (8/7) | 2026-08-07 | 2026-08-08 | 0 |
-| cliché | S | **créer**(만들다) ≠ **crier**(외치다) | elle a créé une partie / il a crié | elle a crié une partie ❌ → a créé (8/7, 발음 유사 함정) | 2026-08-07 | 2026-08-08 | 0 |
-| grammaire | S | 과거 사실=복합과거; **aller + 과거분사 ❌** (futur proche는 aller + 부정사) | nous avons gagné (과거) / nous allons gagner (곧) | nous allons gagné ❌ (8/7) | 2026-08-07 | 2026-08-08 | 0 |
+| cliché | S | **parmi** (셋 이상 중에서) ≠ **entre** (둘 사이) | parmi les héros / entre toi et moi | Entre les héros ❌ → Parmi (8/7) / 8/8 Parmi ✅ | 2026-08-07 | 2026-08-12 | 1 |
+| cliché | S | **créer**(만들다) ≠ **crier**(외치다) | elle a créé une partie / il a crié | elle a crié une partie ❌ (8/7) / 8/8 a créé ✅ | 2026-08-07 | 2026-08-12 | 1 |
+| grammaire | S | 과거 사실=복합과거; **aller + 과거분사 ❌** (futur proche는 aller + 부정사) | nous avons gagné (과거) / nous allons gagner (곧) | nous allons gagné ❌ (8/7) / 8/8 nous avons gagné ✅ | 2026-08-07 | 2026-08-12 | 1 |
+| cliché | S | 온라인 **café ❌ → forum / communauté** (콩글리시 faux-ami) | s'inscrire à un forum / une communauté en ligne | un café de Rubik's cube ❌ (8/9) | 2026-08-09 | 2026-08-10 | 0 |
+| grammaire | S | se dire / penser / croire **que** + 절 (que 누락 주의) | Je me suis dit **que** si… | Je me suis dit si ❌ (8/9) | 2026-08-09 | 2026-08-10 | 0 |
+| grammaire | S | interdire **à** qqn **de** + 부정사 (= ~에게 ~을 금지하다) | il m'interdisait de résoudre / de sortir | il prohibait me résoudre ❌ (8/9) | 2026-08-09 | 2026-08-10 | 0 |
 
 ## T3 — 간격 반복 (정착)
 
@@ -237,6 +241,10 @@
 | cliché | S | dormir(자다, 재귀 X) ≠ s'endormir(잠들다, 재귀) | faire semblant de dormir | se dormir ❌ | 2026-07-31 | 참조 |
 | chunk | S | de suite / d'affilée (연달아) ↔ successivement(격식·차례로) | gagner plusieurs matchs de suite | successivement △ (딱딱) | 2026-08-07 | 참조 |
 | chunk | S | viser / la visée / une partie personnalisée | 조준하다 / 조준 / 사용자 지정 게임 | (게임 어휘) | 2026-08-07 | 참조 |
+| cliché | S | un cubeur / une cubeuse (≠ cubiste) | 큐브 푸는 사람 (cubiste=입체파 화가, faux-ami) | cubists ❌ / cubiste(콩글리시) | 2026-08-09 | 참조 |
+| chunk | S | occupé(e) à + 부정사 (~하느라 바쁘다) | j'avais les mains occupées à le résoudre | mains occupé à s'entraîner ❌ | 2026-08-09 | 참조 |
+| chunk | S | en présentiel / une rencontre / chronométrer | 대면으로 / 모임 / 시간을 재다 | hors ligne ❌(calque) / mesurer un record △ | 2026-08-09 | 참조 |
+| cliché | S | résoudre (철자 — résou**dre**, r 하나) | 풀다·해결하다 | résourdre ❌ (고질, 8/9 ×5) | 2026-08-09 | 참조 |
 
 ---
 

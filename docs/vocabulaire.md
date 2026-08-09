@@ -2559,6 +2559,23 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | un héros / une héroïne | 명사 | 남/여 | 영웅·주인공 (les héros: h 유음 취급 — 리에종 X) |
 | de suite / d'affilée | 부사구 | - | 연달아·잇달아 (successivement보다 일상적) |
 | une grand-mère | 명사 | 여 | 할머니 |
+| un Rubik's cube / un casse-tête | 명사 | 남 | 루빅스 큐브 / 퍼즐 |
+| résoudre (과거분사 résolu) | 동사 | - | 풀다·해결하다 (철자 주의: résou**dre**; 반과거 résolvais ≠ 과거분사 résolu) |
+| un forum / une communauté (en ligne) | 명사 | 남/여 | 온라인 포럼·커뮤니티 (한국어 "카페"=café ❌) |
+| un cubeur / une cubeuse | 명사 | 남/여 | 큐브 푸는 사람 (cubiste=입체파 화가라 faux-ami) |
+| le speedcubing / un speedcubeur | 명사 | 남 | 큐브 속도 경기 / 그 선수 |
+| chronométrer | 동사 | - | 시간을 재다 (mesurer un record △) |
+| en présentiel | 부사구 | - | 대면으로 (hors ligne ❌ calque) |
+| une formule | 명사 | 여 | 공식·(큐브) 알고리즘 (apprendre par cœur 외우다) |
+| le travail scolaire | 명사 | 남 | 학교 공부·학업 (les études de l'école △ 중복) |
+| interdire à qqn de + 부정사 | 구문 | - | ~에게 ~을 금지하다 |
+| s'inscrire à qch | 동사 (재귀) | - | ~에 등록·가입하다 (전치사 à 필수) |
+| occupé(e) à + 부정사 | 표현 | - | ~하느라 바쁘다 (j'avais les mains occupées à…) |
+| un professeur principal | 명사 | 남 | 담임 교사 |
+| un animateur / une animatrice | 명사 | 남/여 | 진행자·사회자 |
+| une fête de la science | 표현 | 여 | 과학의 날·과학 축제 |
+| sur scène | 표현 | - | 무대 위에서 |
+| sous les applaudissements | 표현 | - | 박수 속에서 (관용) |
 
 
 
