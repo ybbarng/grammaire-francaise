@@ -13,7 +13,7 @@
 
 ### 진행 요약
 - **7월**: 최종 **2,413 / 1,500단어 (161%)** — 7/19 조기 달성 후 지속.
-- **8월**: 누적 **1,424 / 1,500 (95%, 8/9 기준)** — 장문 + y/en + 대명사·성수일치 + 조동사 형태 훈련. (곧 목표 달성)
+- **8월**: 누적 **1,487 / 1,500 (99%, 8/10 기준)** — 장문 + y/en + 대명사·성수일치 + **être/avoir 조동사 선택 드릴 100문장(99/100)**. (다음 세션 달성 확실)
 - **월말 rubric 평가**: 7/25 첫 평가 **15/25** (8/3 재채점 — 초기 18은 후했음; 베이스라인 6월 12 → **+3**, 통과). ⚠️ 향상은 **어휘·응집·표기**에 집중, **문법(형태 정확도)은 정체**(3~4). 베이스라인 바닥효과 주의(6/22 첫 세션). 다음 평가 **8/31 — 블라인드 채점 + 문법 오류 횟수 지표** 적용.
 - **수준**: 구성·표현 **B2** / 정확도 **B1** (B1→B2 전환기).
 
@@ -25,12 +25,12 @@
 - **je + (ne)+대명사 + ai/avais** (조동사 사이삽입 시 a/avait 미끄러짐; je는 항상 ai/avais. **재귀 me suis는 안전**) — 8/6 신규 T1 (코퍼스 재귀 m'a ×5 + 일기 l'a·avait 2회)
 - **comme si + 대과거 형성** (avait + 과거분사; PC·부정사 ❌) — active 재드릴
 - **복수 주어/선행사 → 복수 동사** (수 일치) · **on = 동사 3인칭 단수** — 8/4 논증글 반복 (긴 글서 미끄러짐)
-- **⭐ 조동사·양태동사 뒤=원형 / avoir 뒤=과거분사** — 8/9 최다 오류(je pouvais le résolvais·je l'ai résolvais·le porte). résoudre 과거분사=résolu(≠반과거 résolvais). T1 신규
-- **동사 + 전치사 (aller à / s'inscrire à / se concentrer sur)** — 8/9 전치사 누락 3건 재발. jouer à 게임(→y)/s'entraîner à는 8/8 워밍업 통과·승격
-- **après avoir + p.p.** — 8/9 재발(Après j'ai appris ❌). 7월 카드
-- **café(온라인)=forum · cubiste=입체파화가→cubeur** — 콩글리시 faux-ami
+- **✅ être/avoir 조동사 선택** — 8/10 드릴 100문장 99/100 **마스터**. 위치/상태 변화 자동사+재귀=être / **자동사≠être**(courir·marcher·nager·dormir·vivre=avoir) / **monter류+목적어→avoir 함정** 완벽 구별. (아침 a resté·a parti ❌ → 저녁 정착)
+- **⭐ 조동사·양태동사 뒤=원형 / avoir 뒤=과거분사** (résolu≠résolvais) — 8/10 워밍업 통과, T1 유지 모니터링
+- **동사 + 전치사 (aller à / s'inscrire à / se concentrer sur)** · **après avoir + p.p.** — 8/10 워밍업 통과, 승격. 남은 정체 구간
+- **café(온라인)=forum · cubiste=입체파화가→cubeur** · au lieu de+보어(de lui) — 콩글리시·구조 faux-ami
 - 이동 동사 = être(arriver/partir/sortir) · se transformer en · arrêter de + 부정사 · si절 조건법 금지 · 주어 같으면 부정사 · 재귀 성수일치(se=직목 일치/간목 무일치) · être+p.p.→주어 일치(수동·대명·이동 통합) · avoir + 앞 COD 일치(8/7 les/l' 3연속 성공→승격) · croire à → y · parmi≠entre · créer≠crier · aller+p.p.❌ · **run-on 분할** · 엘리지옹(고질) · faisait 철자.
-- **다음 세션 focus**: **조동사+원형·avoir+과거분사 자동화**(résolu 형태) + après avoir p.p. + 동사+전치사(aller à/s'inscrire à/se concentrer sur) — 이 3개가 정확도 다음 계단. je+대명사+ai·성수일치·간접화법은 승격 궤도 유지.
+- **다음 세션 focus**: 전치사+원형 · après avoir p.p. 마무리 — 정확도 마지막 정체 구간. **조동사 선택(être/avoir)·성수일치·간접화법은 정착**. 8/11 = 8월 목표(1,500) 달성 예정.
 - **첨삭 방침(8/9 확정)**: ❌(문법오류)+△(어색)만 교정, 원문이 자연스러우면 유지(사용자 목소리 존중). 과교정 금지.
 - ⚠️ **어휘(성) vs 규칙 구분**: 단어 성(calme 남·nouvelle 여) 오류는 드릴 X, 어휘 풀 누적만. 규칙 있는 것만 훈련.
 

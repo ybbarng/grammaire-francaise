@@ -2576,6 +2576,12 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | une fête de la science | 표현 | 여 | 과학의 날·과학 축제 |
 | sur scène | 표현 | - | 무대 위에서 |
 | sous les applaudissements | 표현 | - | 박수 속에서 (관용) |
+| au lieu de + 명사/원형 | 구문 | - | ~ 대신에 (de+사람=au lieu de lui) |
+| se demander si + 절 | 구문 | - | ~인지 궁금해하다 (예·아니오 의문; se dire que와 구별) |
+| se rendre compte que + 절 | 구문 | - | ~을 깨닫다 (과거분사 rendu 무일치: je me suis rendu compte) |
+| tomber dans l'escalier | 표현 | - | 계단에서 넘어지다 (sur ❌) |
+| tous / toutes (tout 복수) | 형용사·대명사 | - | 남복 tous(touts ❌) / 여복 toutes |
+| naître (과거분사 né) / mourir (mort) | 동사 | - | 태어나다 / 죽다 (둘 다 être 조동사) |
 
 
 
