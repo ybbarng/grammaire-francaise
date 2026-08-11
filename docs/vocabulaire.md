@@ -2582,6 +2582,18 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | tomber dans l'escalier | 표현 | - | 계단에서 넘어지다 (sur ❌) |
 | tous / toutes (tout 복수) | 형용사·대명사 | - | 남복 tous(touts ❌) / 여복 toutes |
 | naître (과거분사 né) / mourir (mort) | 동사 | - | 태어나다 / 죽다 (둘 다 être 조동사) |
+| interdire à qqn de + 원형 | 구문 | - | ~에게 ~을 금지하다 (prohiber는 문어) |
+| avoir le droit de + 원형 | 구문 | - | ~할 권리가 있다 (à ❌) |
+| permettre qch à qqn / le leur permettre | 구문 | - | ~에게 ~을 허락하다 |
+| distraire qqn / déranger qqn | 동사 | - | ~를 산만하게 하다 (직접목적어 le/la/les) |
+| se concentrer sur qch | 동사 (재귀) | - | ~에 집중하다 (전치사 sur) |
+| comme si (+반과거) ↔ comme / de même que | 접속사 | - | 마치 ~인 듯(반사실) ↔ ~하듯이(실제 비교) |
+| la moindre chose | 표현 | 여 | 아주 사소한 것 (pas la moindre) |
+| avec modération | 표현 | - | 절제하며 |
+| la récréation (pendant la ~) | 명사 | 여 | (학교) 쉬는 시간 |
+| un lieu d'apprentissage | 표현 | 남 | 배움의 장 (lieu de + 명사) |
+| un(e) élève | 명사 | 남/여 | 학생 |
+| tout le temps | 표현 | - | 항상 (tous les temps ❌) |
 
 
 
