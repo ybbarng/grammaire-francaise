@@ -87,7 +87,7 @@
 | grammaire | W | 소유형용사는 주어에 일치 (il→son/ses, ils→leur/leurs) | 복수 주어면 leur/leurs | Ils…son rôle ❌ → leur | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | de + le/les = du/des (축약) | de+le=du, de+les=des | de les personnes ❌ → des | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | aider qqn à + 부정사 | ~하도록 돕다 (주어 다르면 à로 연결, pour X) | aider pour ne pas perdre ❌ → à | 2026-07-24 | 2026-07-25 | 0 |
-| grammaire | W | dire que (≠ parler que) | ~라고 말하다 (parler는 que절 안 받음) | parle que ❌ → dit que (7/25; 8/11 자유작문 재발) — 통제 정답·자유 미끄러짐 | 2026-08-11 | 2026-08-12 | 0 |
+| grammaire | W | dire que (≠ parler que) | ~라고 말하다 (parler는 que절 안 받음) | parle que ❌ (7/25; 8/11 자유 재발) → **당일 재드릴 검출·생산 정답 ✅** | 2026-08-11 | 2026-08-12 | 1 |
 | cliché | S | étrange(이상한) ≠ étranger(외국인·외국의) | 철자로 뜻 바뀜 | les étranges ❌ → les étrangers | 2026-07-25 | 2026-07-26 | 0 |
 | chunk | S | avoir du mal à + 부정사 (du 필수) | ~하기 힘들다 (avoir mal à=아프다와 구별) | avoir mal à courir ❌ (7/28 워밍업 정확) | 2026-07-27 | 2026-07-30 | 1 |
 | grammaire | W | partir(자동사, 목적어 X) ↔ quitter(타동사) ↔ sortir de | 떠나다(그냥) / ~을 떠나다(quitter+avoir) / ~에서 나가다(sortir de+être) | Il est parti la chambre ❌ | 2026-07-28 | 2026-07-29 | 0 |
@@ -118,7 +118,7 @@
 | grammaire | W | depuis + 기간 + 현재 (~한 지 ~째) | J'apprends depuis 3 ans (지속) | il y a 3 ans(=~전) 혼동 | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | on dit que (사람들이 ~라고 한다) | ~라고들 한다 | on parle que ❌ | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | à + 도시 (무관사) | ~에 (도시) | au Paris ❌ → à Paris | 2026-07-13 | 2026-07-14 | 0 |
-| grammaire | W | 엘리지옹 = 모음/무음h **앞에서만** (자음 앞엔 절대 X) | l'/d'/qu'/j'/n'/s'/c'/m'/t' · 자음 앞은 la/le/de 그대로 | 7/23 워밍업 3/3 ✅ / 8/11 자유작문 de utiliser·la interdiction ❌ — 통제 정답·자유 미끄러짐 (self-revision 대상) | 2026-07-07 | 2026-08-12 | 8 |
+| grammaire | W | 엘리지옹 = 모음/무음h **앞에서만** (자음 앞엔 절대 X) | l'/d'/qu'/j'/n'/s'/c'/m'/t' · 자음 앞은 la/le/de 그대로 | 8/11 자유 재발(de utiliser·la interdiction ❌) → **당일 재드릴 d'aller·l'aider·qu'il·n'a ✅** (self-revision 대상) | 2026-07-07 | 2026-08-12 | 9 |
 | chunk | S | petit à petit / peu à peu | 조금씩 | peu un peu ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | formule | W | il n'y a pas de meilleur(e) X que Y | Y보다 나은 X는 없다 | ce n'est la meilleure méthode que ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | chunk | S | faire les accords / lire les partitions | 코드를 잡다 / 악보를 읽다 | attraper l'accord ❌ (calque) | 2026-07-08 | 2026-07-09 | 0 |
@@ -200,7 +200,7 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 정착일 | 다음 복습일 | 단계 |
 |---|---|---|---|---|---|---|---|
-| grammaire | W | comme si + 반과거(현재 비현실)/대과거(과거 비현실) | comme s'il était millionnaire / comme si j'avais gagné · 대과거 aux 주의(rencontrer=avoir) | comme si + 현재·PC ❌ (7/21; 8/11 자유작문 재발 interdit→interdisait) — **통제 정답·자유 미끄러짐** | 2026-08-11 | 2026-08-12 | 1일 |
+| grammaire | W | comme si + 반과거(현재 비현실)/대과거(과거 비현실) | comme s'il était millionnaire / comme si j'avais gagné · 대과거 aux 주의(rencontrer=avoir) | 8/11 자유작문 재발(interdit→interdisait) → **당일 재드릴 검출6/6·생산3/3 ✅** (자유서 유지가 관건) | 2026-08-11 | 2026-08-12 | 1일 |
 | grammaire | W | comme si de rien n'était(관용, se 없음·n'était) / comme s'il ne s'était rien passé(se passer 대과거, il 고정) | 아무 일도 없었던 것처럼 | de rien s'était ❌ / il 누락 (7/28 자유 인출 2회 정착) | 2026-07-28 | 2026-07-31 | 3일 |
 | grammaire | W | **comme si + 대과거 형성** (avait + 과거분사) — active 되돌림 | comme s'il n'avait rien su/vu/entendu (부정사 X, 과거분사 O; ne...rien) | comme s'il n'a rien entendu ❌(PC 금지) (8/6 워밍업 정확·이유 설명) | 2026-08-03 | 2026-08-09 | 3일 |
 
@@ -255,6 +255,7 @@
 | chunk | S | tomber dans l'escalier / le matin(아침에) | 계단에서 넘어지다 / 아침에 (au matin 문어 △) | sur escalier ❌ / au matin △ | 2026-08-10 | 참조 |
 | chunk | S | un lieu d'apprentissage / d'apprendre ❌ | 배움의 장 (lieu de + 명사) | un lieu d'apprendre ❌ | 2026-08-11 | 참조 |
 | chunk | S | pendant la récréation / avec modération / tout le temps | 쉬는 시간에 / 절제하며 / 항상(tous les temps ❌) | par exemple la récréation(전치사 누락) / tous les temps ❌ | 2026-08-11 | 참조 |
+| grammaire | S | 일반 "그것은 + 형용사" = **ce**(c'était/c'est), il은 특정 남성명사만 | que ce n'était pas important | qu'il n'était pas important △ (막연한 그것) | 2026-08-11 | 참조 |
 
 ---
 
