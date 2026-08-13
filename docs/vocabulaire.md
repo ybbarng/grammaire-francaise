@@ -2594,6 +2594,13 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | un lieu d'apprentissage | 표현 | 남 | 배움의 장 (lieu de + 명사) |
 | un(e) élève | 명사 | 남/여 | 학생 |
 | tout le temps | 표현 | - | 항상 (tous les temps ❌) |
+| se demander si + 절 (무일치) | 구문 | - | ~인지 궁금하다 (s'est demandé, se=간목 무일치) |
+| protester contre qch/qqn | 동사 | - | ~에 항의하다 |
+| un(e) étudiant(e) | 명사 | 남/여 | (대)학생 (étudients ❌) |
+| mentir (과거분사 menti) | 동사 | - | 거짓말하다 |
+| amusant(e) | 형용사 | - | 재미있는 |
+| la télé / regarder la télé | 명사 | 여 | TV / TV를 보다 |
+| dehors | 부사 | - | 밖에서 |
 
 
 

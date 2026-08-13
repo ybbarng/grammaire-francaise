@@ -64,7 +64,8 @@
 | grammaire | W | 대명동사(재귀)는 복합과거·반과거에서 조동사 être + 재귀대명사 | je me suis dit / je m'inquiétais / on s'est levé | m'a dit ❌ / m'a inquiétais ❌ (8/6 워밍업·재드릴 정확; 8/7 je me suis couché ✅) | 2026-08-02 | 2026-08-14 | 2 |
 | grammaire | S | **조동사는 주어가 결정** (사이 낀 목적어 대명사에 끌리지 말 것); je+대명사+ai/avais 미끄러짐 포함 | je l'ai / j'en avais (je→ai) · **Ils nous ont**(ils→ont) · a·avait는 il/elle/on | je l'a·j'avait ❌ (8/6) / **Ils nous avons ❌ (8/11) → ont** / 재귀 me suis 안전 · 8/7·8/10 번역 무슬립 ✅ | 2026-08-06 | 2026-08-13 | 2 |
 | grammaire | S | **조동사·양태동사 뒤=원형 / avoir 뒤=과거분사** (둘째 동사를 활용형으로 쓰지 말 것) | je pouvais le **résoudre** / j'ai **résolu** / je veux **partir** — pouvais/ai + 활용형(résolvais) ❌ | je pouvais le résolvais·le porte ❌ (8/9) / 8/10 워밍업 résolu·pouvais résoudre ✅ | 2026-08-09 | 2026-08-13 | 1 |
-| grammaire | S | **복합과거 조동사 être** = 위치(A→B)·상태 변화 자동사 + 모든 재귀 (rester 예외) — **자동사≠être** | il est parti/resté/arrivé/tombé / je me suis levé — 단 courir·marcher·nager·dormir·vivre = **avoir** | il a resté·a parti ❌ (8/10) → **드릴 99/100 정착** (자동사≠être 무오답) | 2026-08-10 | 2026-08-13 | 1 |
+| grammaire | S | **복합과거 조동사 être** = 위치(A→B)·상태 변화 자동사 + 모든 재귀 (rester 예외) — **자동사≠être** | il est parti/resté/arrivé/tombé / je me suis levé — 단 courir·marcher·nager·dormir·vivre = **avoir** | il a resté·a parti ❌ (8/10) → **드릴 99/100 정착** / 8/13 a dormi ✅ | 2026-08-10 | 2026-08-16 | 2 |
+| grammaire | S | **간접화법 시제 일치** (과거 주절 → 종속절 뒤로): 현재→**반과거** / 미래→**조건법** / 과거→**대과거** | je me suis dit qu'il **mentait** / si c'**était** vrai / s'il **viendrait** | qu'il a menti·si c'est vrai ❌ (8/13, 현재 그대로 둠) — 미래→조건법(devrais)은 정확 | 2026-08-13 | 2026-08-14 | 0 |
 | grammaire | S | **monter/descendre/sortir/rentrer/passer/retourner + 목적어 → avoir** (없으면 être) | il est monté ↔ il **a** monté les valises / passer un examen=avoir | 목적어 있으면 avoir 함정 — 8/10 드릴서 자·타동사 전환 완벽 구별 ✅ | 2026-08-10 | 2026-08-13 | 1 |
 
 ## T2 — 단기 복습 (5\~10개)
@@ -87,7 +88,7 @@
 | grammaire | W | 소유형용사는 주어에 일치 (il→son/ses, ils→leur/leurs) | 복수 주어면 leur/leurs | Ils…son rôle ❌ → leur | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | de + le/les = du/des (축약) | de+le=du, de+les=des | de les personnes ❌ → des | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | aider qqn à + 부정사 | ~하도록 돕다 (주어 다르면 à로 연결, pour X) | aider pour ne pas perdre ❌ → à | 2026-07-24 | 2026-07-25 | 0 |
-| grammaire | W | dire que (≠ parler que) | ~라고 말하다 (parler는 que절 안 받음) | parle que ❌ (7/25; 8/11 자유 재발) → **당일 재드릴 검출·생산 정답 ✅** | 2026-08-11 | 2026-08-12 | 1 |
+| grammaire | W | dire que (≠ parler que) · **dire는 목적어 필요**(무엇을) | ~라고 말하다 / Il a parlé comme si…(dire+목적어 없이 X) | parle que ❌ (7/25; 8/11) → 당일 재드릴 ✅ → **8/13 자유 유지 ✅**(je me suis dit que) | 2026-08-11 | 2026-08-16 | 2 |
 | cliché | S | étrange(이상한) ≠ étranger(외국인·외국의) | 철자로 뜻 바뀜 | les étranges ❌ → les étrangers | 2026-07-25 | 2026-07-26 | 0 |
 | chunk | S | avoir du mal à + 부정사 (du 필수) | ~하기 힘들다 (avoir mal à=아프다와 구별) | avoir mal à courir ❌ (7/28 워밍업 정확) | 2026-07-27 | 2026-07-30 | 1 |
 | grammaire | W | partir(자동사, 목적어 X) ↔ quitter(타동사) ↔ sortir de | 떠나다(그냥) / ~을 떠나다(quitter+avoir) / ~에서 나가다(sortir de+être) | Il est parti la chambre ❌ | 2026-07-28 | 2026-07-29 | 0 |
@@ -118,7 +119,7 @@
 | grammaire | W | depuis + 기간 + 현재 (~한 지 ~째) | J'apprends depuis 3 ans (지속) | il y a 3 ans(=~전) 혼동 | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | on dit que (사람들이 ~라고 한다) | ~라고들 한다 | on parle que ❌ | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | à + 도시 (무관사) | ~에 (도시) | au Paris ❌ → à Paris | 2026-07-13 | 2026-07-14 | 0 |
-| grammaire | W | 엘리지옹 = 모음/무음h **앞에서만** (자음 앞엔 절대 X) | l'/d'/qu'/j'/n'/s'/c'/m'/t' · 자음 앞은 la/le/de 그대로 | 8/11 자유 재발(de utiliser·la interdiction ❌) → **당일 재드릴 d'aller·l'aider·qu'il·n'a ✅** (self-revision 대상) | 2026-07-07 | 2026-08-12 | 9 |
+| grammaire | W | 엘리지옹 = 모음/무음h **앞에서만** (자음 앞엔 절대 X) | l'/d'/qu'/j'/n'/s'/c'/m'/t' · 자음 앞은 la/le/de 그대로 | 8/11 재발 → 당일 재드릴 ✅ → **8/13 자유 유지 ✅**(s'il·qu'il·c'est) | 2026-07-07 | 2026-08-16 | 10 |
 | chunk | S | petit à petit / peu à peu | 조금씩 | peu un peu ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | formule | W | il n'y a pas de meilleur(e) X que Y | Y보다 나은 X는 없다 | ce n'est la meilleure méthode que ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | chunk | S | faire les accords / lire les partitions | 코드를 잡다 / 악보를 읽다 | attraper l'accord ❌ (calque) | 2026-07-08 | 2026-07-09 | 0 |
@@ -189,18 +190,18 @@
 | cliché | S | **créer**(만들다) ≠ **crier**(외치다) | elle a créé une partie / il a crié | elle a crié une partie ❌ (8/7) / 8/8 a créé ✅ | 2026-08-07 | 2026-08-12 | 1 |
 | grammaire | S | 과거 사실=복합과거; **aller + 과거분사 ❌** (futur proche는 aller + 부정사) | nous avons gagné (과거) / nous allons gagner (곧) | nous allons gagné ❌ (8/7) / 8/8 nous avons gagné ✅ | 2026-08-07 | 2026-08-12 | 1 |
 | cliché | S | 온라인 **café ❌ → forum / communauté** (콩글리시 faux-ami) | s'inscrire à un forum / une communauté en ligne | un café de Rubik's cube ❌ (8/9) / 8/10 forum ✅ | 2026-08-09 | 2026-08-13 | 1 |
-| grammaire | S | se dire **que**(서술·조건) ↔ se demander **si**(예·아니오 의문) | Je me suis dit que si… / Je me suis demandé s'il viendrait | Je me suis dit si ❌ (8/9) / 8/10 que si·demandé si ✅ | 2026-08-09 | 2026-08-13 | 1 |
+| grammaire | S | se dire **que**(서술·조건) ↔ se demander **si**(예·아니오 의문); se demander는 **무일치**(se=간목) | Je me suis demandé si… / Elle s'est **demandé**(demandée ❌) | dit que si ❌(8/9) / 8/13 재발(dit que si) → se demander si·s'est demandé 재교정 | 2026-08-09 | 2026-08-14 | 1 |
 | grammaire | S | interdire **à** qqn **de** + 부정사 (= ~에게 ~을 금지하다) | il m'interdisait de résoudre / m'a interdit de sortir / lui a interdit de boire / nous ont interdit d'entrer | il prohibait me résoudre ❌ (8/9) / 8/11 massed 4회(me/lui/nous) ✅ | 2026-08-09 | 2026-08-14 | 1 |
 | grammaire | S | au lieu de + 명사/원형 (de+사람=**de lui**) · de+사물=en / de+사람=de lui/elle | au lieu de lui / au lieu de partir — en은 사물·불특정 양만 | Eric en a travaillé au lieu ❌ (8/10) / 8/11 au lieu de le faire ✅ | 2026-08-10 | 2026-08-14 | 1 |
 | grammaire | S | **comme si**(마치~인 듯, 반사실) ↔ **comme / de même que**(실제 비교) | comme s'il dormait(실제 X) / comme lorsqu'on interdit…(실제 O) | comme si on interdit(운전 중 금지=실제) ❌ (8/11) → comme lorsqu'on — 논리 뒤집힘 | 2026-08-11 | 2026-08-12 | 0 |
-| grammaire | S | avoir le droit **de** + 원형 (à ❌) | ils ont le droit de choisir | le droit à utiliser ❌ (8/11) | 2026-08-11 | 2026-08-12 | 0 |
+| grammaire | S | avoir le droit **de** + 원형 (à ❌) | ils ont le droit de choisir / de jouer / de poser des questions | le droit à utiliser ❌ (8/11); 8/13 "모르겠어" → 재학습·재생산 4회 ✅ | 2026-08-11 | 2026-08-16 | 2 |
 | grammaire | S | distraire / déranger qqn = **직접목적어**(le/la/les, leur ❌) | qch qui les distrait | qui leur distraient ❌ (8/11) → les distrait | 2026-08-11 | 2026-08-12 | 0 |
 
 ## T3 — 간격 반복 (정착)
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 정착일 | 다음 복습일 | 단계 |
 |---|---|---|---|---|---|---|---|
-| grammaire | W | comme si + 반과거(현재 비현실)/대과거(과거 비현실) | comme s'il était millionnaire / comme si j'avais gagné · 대과거 aux 주의(rencontrer=avoir) | 8/11 자유작문 재발(interdit→interdisait) → **당일 재드릴 검출6/6·생산3/3 ✅** (자유서 유지가 관건) | 2026-08-11 | 2026-08-12 | 1일 |
+| grammaire | W | comme si + 반과거(현재 비현실)/대과거(과거 비현실) | comme s'il était millionnaire / comme si j'avais gagné · 대과거 aux 주의(rencontrer=avoir) | 8/11 재발 → 당일 재드릴 ✅ → **8/13 자유작문 유지 ✅**(comme s'il avait compris) 자동화 다리 형성 | 2026-08-11 | 2026-08-16 | 2일 |
 | grammaire | W | comme si de rien n'était(관용, se 없음·n'était) / comme s'il ne s'était rien passé(se passer 대과거, il 고정) | 아무 일도 없었던 것처럼 | de rien s'était ❌ / il 누락 (7/28 자유 인출 2회 정착) | 2026-07-28 | 2026-07-31 | 3일 |
 | grammaire | W | **comme si + 대과거 형성** (avait + 과거분사) — active 되돌림 | comme s'il n'avait rien su/vu/entendu (부정사 X, 과거분사 O; ne...rien) | comme s'il n'a rien entendu ❌(PC 금지) (8/6 워밍업 정확·이유 설명) | 2026-08-03 | 2026-08-09 | 3일 |
 
