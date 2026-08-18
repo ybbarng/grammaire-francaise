@@ -2601,6 +2601,19 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | amusant(e) | 형용사 | - | 재미있는 |
 | la télé / regarder la télé | 명사 | 여 | TV / TV를 보다 |
 | dehors | 부사 | - | 밖에서 |
+| voire | 부사 | - | 내지·심지어 (점층: ou보다 세련) |
+| au cours de | 전치사구 | - | ~에 걸쳐·~동안 |
+| à travers les époques | 표현 | - | 시대를 가로질러 |
+| se réjouir de qch | 동사 (재귀) | - | ~을 기뻐하다 (jouir de보다 자연) |
+| une récolte | 명사 | 여 | 수확 |
+| l'ère de la dopamine | 표현 | 여 | 도파민의 시대 (l'ère de ~) |
+| en continu | 부사구 | - | 연속으로·끊임없이 |
+| en somme | 접속부사 | - | 요컨대 (Sommairement ❌ = 간략히) |
+| de temps en temps | 부사구 | - | 가끔·때때로 |
+| se comparer à | 동사 (재귀) | - | ~와 자신을 비교하다 (comparer는 목적어 필요) |
+| laisser ouverte la possibilité que + 접속법 | 구문 | - | ~할 가능성을 열어두다 |
+| nos ancêtres / les gens d'autrefois | 명사 | - | 우리 조상 / 옛날 사람들 |
+| un gros animal | 표현 | 남 | 큰 동물 |
 
 
 
