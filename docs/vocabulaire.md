@@ -2614,6 +2614,16 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | laisser ouverte la possibilité que + 접속법 | 구문 | - | ~할 가능성을 열어두다 |
 | nos ancêtres / les gens d'autrefois | 명사 | - | 우리 조상 / 옛날 사람들 |
 | un gros animal | 표현 | 남 | 큰 동물 |
+| le cube de Rubik / le Rubik's Cube | 명사 | 남 | 루빅스 큐브 (de+사람이름 → 무관사) |
+| un hexaèdre régulier | 명사 | 남 | 정육면체 |
+| une face (du cube) | 명사 | 여 | 면 |
+| se composer de | 동사 (재귀) | - | ~로 구성되다 |
+| un algorithme / une formule | 명사 | 남/여 | 알고리즘 / 공식 |
+| la mémorisation | 명사 | 여 | 암기 |
+| la maîtrise / la technique / l'habileté (de) | 명사 | 여 | 숙련·기술 (métier=직업이라 ❌) |
+| jouer du piano / de la guitare | 표현 | - | 악기를 연주하다 (jouer de + 정관사) |
+| celui / celle / ceux / celles | 지시대명사 | - | 그것(생략된 명사 대체) |
+| une rangée | 명사 | 여 | 줄·열 |
 
 
 
