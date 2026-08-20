@@ -2624,6 +2624,12 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | jouer du piano / de la guitare | 표현 | - | 악기를 연주하다 (jouer de + 정관사) |
 | celui / celle / ceux / celles | 지시대명사 | - | 그것(생략된 명사 대체) |
 | une rangée | 명사 | 여 | 줄·열 |
+| se comparer à qqn (à lui) | 동사 (재귀) | - | ~와 자신을 비교하다 (à+사람=강세형) |
+| se détruire | 동사 (재귀) | - | 자신을 파괴하다 |
+| régulièrement | 부사 | - | 규칙적으로 |
+| impressionnant(e) | 형용사 | - | 인상적인 |
+| s'exercer / s'entraîner | 동사 (재귀) | - | 연습·훈련하다 |
+| tous les jours | 표현 | - | 매일 |
 
 
 
