@@ -2634,3 +2634,12 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 
 
 
+| jouir de qch | 동사 | - | ~을 향유하다·누리다 (jouer à와 혼동 ❌; 단독 jouir=성적 함의) |
+| supporter | 동사 | - | 참다·견디다 (avoir du mal à supporter le bruit) |
+| une construction | 명사 | 여 | 공사·건설 |
+| une valise | 명사 | 여 | 여행 가방 (monter les valises) |
+| le Brésil | 명사 | 남 | 브라질 (du Brésil — 나라 관사) |
+| le Portugal | 명사 | 남 | 포르투갈 (au Portugal) |
+| la peine | 명사 | 여 | 괴로움·슬픔 (avoir de la peine à + 원형 = 힘들다) |
+| l'étage supérieur / du dessus | 명사 | 남 | 위층 |
+| tôt le matin | 표현 | - | 아침 일찍 (au matin tôt ❌) |

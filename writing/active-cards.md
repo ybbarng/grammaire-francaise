@@ -65,10 +65,12 @@
 | grammaire | S | **조동사는 주어가 결정** (사이 낀 목적어 대명사에 끌리지 말 것); je+대명사+ai/avais 미끄러짐 포함 | je l'ai / j'en avais (je→ai) · **Ils nous ont**(ils→ont) · a·avait는 il/elle/on | je l'a·j'avait ❌ (8/6) / **Ils nous avons ❌ (8/11) → ont** / 재귀 me suis 안전 · 8/7·8/10 번역 무슬립 ✅ | 2026-08-06 | 2026-08-13 | 2 |
 | grammaire | S | **조동사·양태동사 뒤=원형 / avoir 뒤=과거분사** (둘째 동사를 활용형으로 쓰지 말 것) | je pouvais le **résoudre** / j'ai **résolu** / je veux **partir** — pouvais/ai + 활용형(résolvais) ❌ | je pouvais le résolvais·le porte ❌ (8/9) / 8/10 워밍업 résolu·pouvais résoudre ✅ | 2026-08-09 | 2026-08-13 | 1 |
 | grammaire | S | **복합과거 조동사 être** = 위치(A→B)·상태 변화 자동사 + 모든 재귀 (rester 예외) — **자동사≠être** | il est parti/resté/arrivé/tombé / je me suis levé — 단 courir·marcher·nager·dormir·vivre = **avoir** | il a resté·a parti ❌ (8/10) → **드릴 99/100 정착** / 8/13 a dormi ✅ | 2026-08-10 | 2026-08-16 | 2 |
-| grammaire | S | **간접화법 시제 일치** (과거 주절→종속절 뒤로): 현재→**반과거**/미래→**조건법**/과거→**대과거** · **시간부사도 backshift**(demain→le lendemain·hier→la veille) | qu'il **mentait** / s'il **viendrait le lendemain** / qu'il **était parti** | qu'il a menti ❌(8/13) / 8/18·8/20 était·viendrait·qu'il l'avait fini ✅ | 2026-08-13 | 2026-08-23 | 2 |
+| grammaire | S | **간접화법 시제 일치** (과거 주절→종속절 뒤로): 현재→**반과거**/미래→**조건법**/과거→**대과거** · **시간부사도 backshift**(demain→le lendemain·hier→la veille) | qu'il **mentait** / s'il **viendrait le lendemain** / qu'il **était parti** | qu'il a menti ❌(8/13) / 8/18·8/20 était·viendrait·qu'il l'avait fini ✅ / 8/21 워밍업 재발 qu'il m'a menti ❌→mentait, 재생산서 me connaissait·avait oublié ✅ | 2026-08-13 | 2026-08-24 | 3 |
 | grammaire | S | **de + 관사** 디폴트=관사(du/des/de la); **무관사는 6가지만**: ①부정 ②양·용기 ③합성머리명사(cours/prof de X) ④관용구 ⑤소유격/지시사 ⑥고유명사 | vient des hormones / du corps humain / de la dopamine — 프랑스어는 총칭·물질도 관사 | de+le=du는 **le=관사**일 때만 / 첫 명사가 결정 · 8/20 du café·du mélange·des étudiants ✅ | 2026-08-18 | 2026-08-23 | 2 |
-| grammaire | S | 도시(무관사 de Paris)↔나라(관사 du Japon/des USA; 여성국가만 de France 생략) · jouer **de**+악기(du piano/de la guitare) | de Paris ↔ du Japon / je joue du piano | de Japon ❌ | 2026-08-18 | 2026-08-19 | 0 |
-| grammaire | S | **monter/descendre/sortir/rentrer/passer/retourner + 목적어 → avoir** (없으면 être) | il est monté ↔ il **a** monté les valises / passer un examen=avoir | 목적어 있으면 avoir 함정 — 8/10 드릴서 자·타동사 전환 완벽 구별 ✅ | 2026-08-10 | 2026-08-13 | 1 |
+| grammaire | S | 도시(무관사 de Paris)↔나라(관사 du Japon/des USA; 여성국가만 de France 생략) · jouer **de**+악기(du piano/de la guitare) | de Paris ↔ du Japon / je joue du piano | de Japon ❌ / 8/21 est venu du Brésil↔à Lyon·née au Portugal↔à Madrid ✅ | 2026-08-18 | 2026-08-26 | 1 |
+| grammaire | S | **monter/descendre/sortir/rentrer/passer/retourner + 목적어 → avoir** (없으면 être) | il est monté ↔ il **a** monté les valises / passer un examen=avoir | 목적어 있으면 avoir 함정 — 8/10 드릴서 자·타동사 전환 완벽 구별 ✅ / 8/21 a monté↔est descendu ✅ | 2026-08-10 | 2026-08-23 | 2 |
+| cliché | S | **connaître**(사람·장소·경험으로 앎) ≠ **savoir**(사실·방법·정보) · 사람 몰랐던 **상태**=connaissait(반과거) | je connais Paris/le restaurant / je sais que…, je sais nager | savait le restaurant ❌ (8/21) / je connais le restaurant·je ne sais pas quand ✅ (8/21 워밍업) — **사용자 요청 특별관리** | 2026-08-21 | 2026-08-22 | 1 |
+| cliché | S | **jouer à**(게임하다·놀다) ≠ **jouir de**(향유하다; 단독 jouir=성적 함의 조심) | il a joué aux jeux vidéo / jouer à Overwatch — jouir de la vie(누리다) | a joui au jeu vidéo ❌ (8/21) → a joué aux jeux vidéo | 2026-08-21 | 2026-08-22 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
@@ -92,7 +94,7 @@
 | grammaire | W | aider qqn à + 부정사 | ~하도록 돕다 (주어 다르면 à로 연결, pour X) | aider pour ne pas perdre ❌ → à | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | dire que (≠ parler que) · **dire는 목적어 필요**(무엇을) | ~라고 말하다 / Il a parlé comme si…(dire+목적어 없이 X) | parle que ❌ (7/25; 8/11) → 당일 재드릴 ✅ → **8/13 자유 유지 ✅**(je me suis dit que) | 2026-08-11 | 2026-08-16 | 2 |
 | cliché | S | étrange(이상한) ≠ étranger(외국인·외국의) | 철자로 뜻 바뀜 | les étranges ❌ → les étrangers | 2026-07-25 | 2026-07-26 | 0 |
-| chunk | S | avoir du mal à + 부정사 (du 필수) | ~하기 힘들다 (avoir mal à=아프다와 구별) | avoir mal à courir ❌ (7/28 워밍업 정확) | 2026-07-27 | 2026-07-30 | 1 |
+| chunk | S | avoir du mal **à** + 부정사 (전치사 à!) · avoir de la peine **à**도 à (de ❌) | ~하기 힘들다 (avoir mal à=아프다와 구별) | avoir mal à courir ❌ (7/28 워밍업 정확) / 8/21 peine **de** ❌→à (자가 미검출) | 2026-07-27 | 2026-08-22 | 1 |
 | grammaire | W | partir(자동사, 목적어 X) ↔ quitter(타동사) ↔ sortir de | 떠나다(그냥) / ~을 떠나다(quitter+avoir) / ~에서 나가다(sortir de+être) | Il est parti la chambre ❌ | 2026-07-28 | 2026-07-29 | 0 |
 | chunk | W | s'efforcer de + 부정사 / retenir ses larmes | 애쓰다 / 눈물을 참다 | (잘 씀) | 2026-07-28 | 2026-07-29 | 0 |
 | chunk | S | faire semblant de + 부정사 | ~인 척하다 (comme si de rien n'était 사촌) | (7/31 massed 3맥락 정착) | 2026-07-31 | 2026-08-01 | 0 |
