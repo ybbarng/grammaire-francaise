@@ -2643,3 +2643,15 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | la peine | 명사 | 여 | 괴로움·슬픔 (avoir de la peine à + 원형 = 힘들다) |
 | l'étage supérieur / du dessus | 명사 | 남 | 위층 |
 | tôt le matin | 표현 | - | 아침 일찍 (au matin tôt ❌) |
+| soit | 접속사 | - | 즉·다시 말해 (= c'est-à-dire, 환산·부연) |
+| il faut / il m'a fallu (falloir) | 동사 (비인칭) | - | ~가 필요하다 / ~하는 데 (시간) 걸리다 |
+| un écolier / une écolière | 명사 | 남/여 | 초등학생 (école primaire) |
+| un collégien / une collégienne | 명사 | 남/여 | 중학생 (collège) |
+| un lycéen / une lycéenne | 명사 | 남/여 | 고등학생 (lycée) |
+| se développer | 동사 (재귀) | - | 발전하다·성장하다 (se développer soi-même) |
+| la réserve (force de réserve) | 명사 | 여 | 예비군 |
+| demander à qqn de + 원형 | 표현 | - | ~에게 ~하라고 요청·시키다 (≠ commander qch à qn 주문하다) |
+| porter l'uniforme | 표현 | - | 제복을 입고 있다 (habiller ❌) |
+| autre que | 표현 | - | ~이 아닌 다른 (단수와; sauf=전체·복수와) |
+| se faire comprendre | 표현 | - | 자기 말을 이해시키다 |
+| un parcours | 명사 | 남 | 여정·경로 |
