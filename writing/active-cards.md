@@ -79,6 +79,8 @@
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
 | chunk | W | 감정 형용사 + de + 부정사 (Je suis heureux/content/fier de…) | 감정=사람 주어+être+de (de=감정의 원인·출처). 다른 주어면 que+접속법 | C'est heureux ❌ / de être → d'être | 2026-07-13 | 2026-07-18 | 3 |
+| formule | S | **soit** = 즉·다시 말해 (= c'est-à-dire) — 환산·부연 | 99, soit 4×20+10+9 / 2000 euros, soit ~3M wons | (8/24 massed 2/2: ordinateur·équipe ✅) | 2026-08-24 | 2026-08-25 | 0 |
+| chunk | S | **il (m')a fallu + 기간 + pour + 원형** (~하는 데 걸리다) ≠ il faut + 원형(해야 한다) | Il m'a fallu trois jours pour finir / beaucoup de temps pour comprendre (=ça m'a pris / j'ai mis à) | il m'a fallu finir…pendant 3 jours ❌ (구조 뒤집힘) → 8/24 massed 2/2 ✅ | 2026-08-24 | 2026-08-25 | 0 |
 | cliché | S | 회사 = l'entreprise (travailler dans / mon·notre entreprise) | bureau≠회사 / notre l'entreprise ❌ | mon bureau(회사) ❌ | 2026-07-15 | 2026-07-19 | 3 |
 | cliché | S | informer qqn ≠ communiquer/annoncer qch | 사람에게 알리다 / 결정을 통보하다 | la décision soit informé ❌ → communiquée | 2026-07-16 | 2026-07-17 | 0 |
 | grammaire | W | il aurait mieux valu + 부정사 | ~하는 게 나았을 것이다 | il aurait fait mieux annoncer ❌ | 2026-07-16 | 2026-07-17 | 0 |
