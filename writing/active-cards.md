@@ -71,16 +71,17 @@
 | grammaire | S | **monter/descendre/sortir/rentrer/passer/retourner + 목적어 → avoir** (없으면 être) | il est monté ↔ il **a** monté les valises / passer un examen=avoir | 목적어 있으면 avoir 함정 — 8/10 드릴 ✅ / 8/21·8/23 a monté les valises ✅ | 2026-08-10 | 2026-08-28 | 3 |
 | cliché | S | **connaître**(사람·장소·경험으로 앎) ≠ **savoir**(사실·방법·정보) · 사람 몰랐던 **상태**=connaissait(반과거) | je connais Paris/le restaurant / je sais que…, je sais nager | savait le restaurant ❌ (8/21) / 8/21·8/23 워밍업 je connais cette ville·cet homme / ne sais pas où·son nom ✅ — **사용자 요청 특별관리** | 2026-08-21 | 2026-08-27 | 2 |
 | cliché | S | **jouer à**(게임하다·놀다) ≠ **jouir de**(향유하다; 단독 jouir=성적 함의 조심) · **jouer de**+악기 | il a joué aux jeux vidéo / jouer à Overwatch / jouer du piano — jouir de la vie(누리다) | a joui au jeu vidéo ❌ (8/21) → a joué / 8/23 워밍업 재발 joue les jeux vidéo·au piano ❌ → 재생산서 du violon·aux cartes ✅ | 2026-08-21 | 2026-08-26 | 1 |
-| grammaire | S | **동사 + de/à + 원형** (전치사 값은 동사마다 고정): décider **de** · essayer **de** · commencer **à** · apprendre **à** · continuer à · choisir de | j'ai décidé **de** commencer **à** étudier | décidé commencer·utiliser·commencé lire·apprendre ❌ ×5 (8/23) — **"버릇 전혀 안 듦"**, massed 필요 | 2026-08-23 | 2026-08-24 | 0 |
-| grammaire | S | **demander/ordonner à qqn de + 원형** (~에게 ~하라고 시키다) ≠ commander qch à qn(주문하다) | j'ai demandé **à** l'IA **de** créer / de les noter | commandé l'IA à créer ❌ ×2 (8/23) → demandé à l'IA de créer | 2026-08-23 | 2026-08-24 | 0 |
+| grammaire | S | **동사 + de/à + 원형** (전치사 값은 동사마다 고정): décider **de** · essayer **de** · réussir **à** · commencer **à** · apprendre **à** · continuer à · choisir de | j'ai décidé **de** commencer **à** étudier | ❌ ×5 (8/23) "버릇 안 듦" → 8/25 워밍업 décider de·arrêter de·commencer à·réussir à·envie de 전부 ✅ (엘리지옹 d'arrêter만) | 2026-08-23 | 2026-08-28 | 1 |
+| grammaire | S | **demander/ordonner à qqn de + 원형** (~에게 ~하라고 시키다) ≠ commander qch à qn(주문하다) · à+les=**aux** | j'ai demandé **à** l'IA **de** créer / **aux** étudiants de se taire | commandé l'IA à créer ❌ (8/23) → 8/25 demandé aux étudiants de se taire·lui ai demandé de fermer ✅ (à les→aux만) | 2026-08-23 | 2026-08-28 | 1 |
 
 ## T2 — 단기 복습 (5\~10개)
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
 | chunk | W | 감정 형용사 + de + 부정사 (Je suis heureux/content/fier de…) | 감정=사람 주어+être+de (de=감정의 원인·출처). 다른 주어면 que+접속법 | C'est heureux ❌ / de être → d'être | 2026-07-13 | 2026-07-18 | 3 |
-| formule | S | **soit** = 즉·다시 말해 (= c'est-à-dire) — 환산·부연 | 99, soit 4×20+10+9 / 2000 euros, soit ~3M wons | (8/24 massed 2/2: ordinateur·équipe ✅) | 2026-08-24 | 2026-08-25 | 0 |
-| chunk | S | **il (m')a fallu + 기간 + pour + 원형** (~하는 데 걸리다) ≠ il faut + 원형(해야 한다) | Il m'a fallu trois jours pour finir / beaucoup de temps pour comprendre (=ça m'a pris / j'ai mis à) | il m'a fallu finir…pendant 3 jours ❌ (구조 뒤집힘) → 8/24 massed 2/2 ✅ | 2026-08-24 | 2026-08-25 | 0 |
+| formule | S | **soit** = 즉·다시 말해 (= c'est-à-dire) — **등가 치환**(soit 뒤엔 같은 값만, 비교 long comme X). 철자 soit(≠sois 접속법) | 90 minutes, soit une heure et demie | 8/24 massed 2/2 ✅ / 8/27 soit long comme △·sois ❌ → soit toute la matinée·une heure et demie ✅ | 2026-08-24 | 2026-08-28 | 2 |
+| grammaire | S | 지시형용사 **ce**(남자음)/**cet**(남+모음·무음h)/**cette**(여) — 발음상 cet=cette 동일 주의 | ce livre / **cet** homme·examen / **cette** ville | cet ville ❌(8/23) / Ce examen ❌(8/27) → cet examen (둘 다 자가검출 ✅) | 2026-08-27 | 2026-08-28 | 0 |
+| chunk | S | **il (m')a fallu + 기간 + `pour` + 원형** (~하는 데 걸리다) ≠ il faut + 원형(해야 한다) | Il m'a fallu une semaine pour développer / cinq ans pour parler couramment (=ça m'a pris) | pour 누락·pendant ❌ → 8/24·8/25 massed ✅ / 8/25 pour 재확인 ✅ (ans≠années) | 2026-08-24 | 2026-08-28 | 2 |
 | cliché | S | 회사 = l'entreprise (travailler dans / mon·notre entreprise) | bureau≠회사 / notre l'entreprise ❌ | mon bureau(회사) ❌ | 2026-07-15 | 2026-07-19 | 3 |
 | cliché | S | informer qqn ≠ communiquer/annoncer qch | 사람에게 알리다 / 결정을 통보하다 | la décision soit informé ❌ → communiquée | 2026-07-16 | 2026-07-17 | 0 |
 | grammaire | W | il aurait mieux valu + 부정사 | ~하는 게 나았을 것이다 | il aurait fait mieux annoncer ❌ | 2026-07-16 | 2026-07-17 | 0 |
@@ -96,7 +97,7 @@
 | grammaire | W | 소유형용사는 주어에 일치 (il→son/ses, ils→leur/leurs) | 복수 주어면 leur/leurs | Ils…son rôle ❌ → leur | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | de + le/les = du/des (축약) | de+le=du, de+les=des | de les personnes ❌ → des | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | aider qqn à + 부정사 | ~하도록 돕다 (주어 다르면 à로 연결, pour X) | aider pour ne pas perdre ❌ → à | 2026-07-24 | 2026-07-25 | 0 |
-| grammaire | W | dire que (≠ parler que) · **dire는 목적어 필요**(무엇을: dire la vérité·dire un nombre) / parler는 목적어 직접 X | ~라고 말하다 / dire la vérité(parler ❌) | parle que ❌ (7/25; 8/11) → 8/13 자유 유지 ✅ / 8/23 재발 On parle 99·n'ai parlé que les nombres ❌ → dit | 2026-08-11 | 2026-08-24 | 2 |
+| grammaire | W | dire que (≠ parler que) · **dire는 목적어 필요**(무엇을: dire la vérité) / parler **de**(~에 대해) | dire la vérité(parler ❌) / parler de ses problèmes | 8/23 재발 On parle 99 ❌→dit / 8/27 il m'a dit la vérité·parler de ses problèmes ✅ | 2026-08-11 | 2026-08-30 | 3 |
 | cliché | S | étrange(이상한) ≠ étranger(외국인·외국의) | 철자로 뜻 바뀜 | les étranges ❌ → les étrangers | 2026-07-25 | 2026-07-26 | 0 |
 | chunk | S | avoir du mal **à** + 부정사 (전치사 à!) · avoir de la peine **à**도 à (de ❌) | ~하기 힘들다 (avoir mal à=아프다와 구별) | avoir mal à courir ❌ (7/28 워밍업 정확) / 8/21 peine **de** ❌→à (자가 미검출) | 2026-07-27 | 2026-08-22 | 1 |
 | grammaire | W | partir(자동사, 목적어 X) ↔ quitter(타동사) ↔ sortir de | 떠나다(그냥) / ~을 떠나다(quitter+avoir) / ~에서 나가다(sortir de+être) | Il est parti la chambre ❌ | 2026-07-28 | 2026-07-29 | 0 |

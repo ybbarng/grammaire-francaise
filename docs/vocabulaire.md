@@ -2655,3 +2655,9 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | autre que | 표현 | - | ~이 아닌 다른 (단수와; sauf=전체·복수와) |
 | se faire comprendre | 표현 | - | 자기 말을 이해시키다 |
 | un parcours | 명사 | 남 | 여정·경로 |
+| une fonctionnalité | 명사 | 여 | 기능 (개발) |
+| effacer le tableau | 표현 | - | 칠판을 지우다 |
+| se taire | 동사 (재귀·불규칙) | - | 조용히 하다·입 다물다 (il se tait) |
+| la matinée | 명사 | 여 | 오전 (지속: toute la matinée 오전 내내) |
+| une fenêtre | 명사 | 여 | 창문 |
+| s'habituer à | 동사 (재귀) | - | ~에 익숙해지다 |
