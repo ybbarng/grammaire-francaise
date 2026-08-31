@@ -2661,3 +2661,9 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | la matinée | 명사 | 여 | 오전 (지속: toute la matinée 오전 내내) |
 | une fenêtre | 명사 | 여 | 창문 |
 | s'habituer à | 동사 (재귀) | - | ~에 익숙해지다 |
+| une liseuse | 명사 | 여 | 전자책 단말기 (e-reader) |
+| abattre (des arbres) | 동사 | - | (나무를) 베다·쓰러뜨리다 |
+| bon marché | 형용사 | 불변 | 값싼 (성수일치 X) / meilleur marché=더 쌈 |
+| emporter | 동사 | - | (들고) 가져가다 |
+| accessible | 형용사 | - | 접근하기 쉬운 |
+| sous forme électronique | 표현 | - | 전자 형태로 |

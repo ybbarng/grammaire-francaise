@@ -73,6 +73,8 @@
 | cliché | S | **jouer à**(게임하다·놀다) ≠ **jouir de**(향유하다; 단독 jouir=성적 함의 조심) · **jouer de**+악기 | il a joué aux jeux vidéo / jouer à Overwatch / jouer du piano — jouir de la vie(누리다) | a joui au jeu vidéo ❌ (8/21) → a joué / 8/23 워밍업 재발 joue les jeux vidéo·au piano ❌ → 재생산서 du violon·aux cartes ✅ | 2026-08-21 | 2026-08-26 | 1 |
 | grammaire | S | **동사 + de/à + 원형** (전치사 값은 동사마다 고정): décider **de** · essayer **de** · réussir **à** · commencer **à** · apprendre **à** · continuer à · choisir de | j'ai décidé **de** commencer **à** étudier | ❌ ×5 (8/23) "버릇 안 듦" → 8/25 워밍업 décider de·arrêter de·commencer à·réussir à·envie de 전부 ✅ (엘리지옹 d'arrêter만) | 2026-08-23 | 2026-08-28 | 1 |
 | grammaire | S | **demander/ordonner à qqn de + 원형** (~에게 ~하라고 시키다) ≠ commander qch à qn(주문하다) · à+les=**aux** | j'ai demandé **à** l'IA **de** créer / **aux** étudiants de se taire | commandé l'IA à créer ❌ (8/23) → 8/25 demandé aux étudiants de se taire·lui ai demandé de fermer ✅ (à les→aux만) | 2026-08-23 | 2026-08-28 | 1 |
+| grammaire | W | **총칭 관사**: 일반론("~는 대체로")=**정관사 les/le/la** / 부분·불특정 양=des·du | **Les** livres numériques sont pratiques (일반론) ↔ j'ai acheté **des** livres | 8/31 평가: des livres numériques sont… ❌ ×多 (일반론인데 des) → les — **신규 T1** | 2026-08-31 | 2026-09-01 | 0 |
+| grammaire | W | **형용사 성수일치 = 지식 아닌 일관성**(자유산출 -s 누락). 자가검출 스캔: **복수 명사→꾸미는 형용사마다 -s** (후치·술어 둘 다) | des livres **étrangers** / sont plus **faciles** / **meilleurs** — bon marché는 **불변**(예외) | 8/31 평가: légers·lourds·meilleurs¹ ✅ ↔ étranger·facile·meilleur² ❌ (같은 글서 혼재=자동화 격차) | 2026-08-31 | 2026-09-01 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
@@ -273,6 +275,8 @@
 | chunk | S | un lieu d'apprentissage / d'apprendre ❌ | 배움의 장 (lieu de + 명사) | un lieu d'apprendre ❌ | 2026-08-11 | 참조 |
 | chunk | S | pendant la récréation / avec modération / tout le temps | 쉬는 시간에 / 절제하며 / 항상(tous les temps ❌) | par exemple la récréation(전치사 누락) / tous les temps ❌ | 2026-08-11 | 참조 |
 | grammaire | S | 일반 "그것은 + 형용사" = **ce**(c'était/c'est), il은 특정 남성명사만 | que ce n'était pas important | qu'il n'était pas important △ (막연한 그것) | 2026-08-11 | 참조 |
+| cliché | S | **bon marché** = 값싼 (**불변** — 성수일치 X) / meilleur marché=더 쌈 | des livres bon marché (bons marchés ❌) | bons marchés ❌ (8/31) | 2026-08-31 | 참조 |
+| chunk | W | **une liseuse**(전자책 단말기) / abattre des arbres(나무를 베다) / sous forme électronique | lire sur une liseuse | l'appareil du livre papier △ / couper les arbres △ | 2026-08-31 | 참조 |
 
 ---
 
