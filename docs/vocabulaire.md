@@ -2667,3 +2667,13 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | emporter | 동사 | - | (들고) 가져가다 |
 | accessible | 형용사 | - | 접근하기 쉬운 |
 | sous forme électronique | 표현 | - | 전자 형태로 |
+| apparaître dans | 동사 | - | ~에 등장하다 (작품·화면) |
+| avoir tendance à + 원형 | 표현 | - | ~하는 경향이 있다 |
+| recevoir des soins | 표현 | - | 치료를 받다 |
+| une capacité | 명사 | 여 | 능력·기술 |
+| une créature | 명사 | 여 | 생물·창조물 |
+| un dessin animé | 명사 | 남 | 만화영화·애니메이션 |
+| un combat | 명사 | 남 | 전투·배틀 |
+| blessé(e) | 형용사/명사 | - | 부상당한 (Pokémon blessés) |
+| de type (X) | 표현 | - | ~ 타입의 (les Pokémon de type Eau) |
+| mignon(ne) / drôle / aimable | 형용사 | - | 귀여운 / 웃긴 / 상냥한 |
