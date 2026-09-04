@@ -2677,3 +2677,17 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | blessé(e) | 형용사/명사 | - | 부상당한 (Pokémon blessés) |
 | de type (X) | 표현 | - | ~ 타입의 (les Pokémon de type Eau) |
 | mignon(ne) / drôle / aimable | 형용사 | - | 귀여운 / 웃긴 / 상냥한 |
+| dégagé (ciel dégagé) | 형용사 | - | (하늘이) 맑게 갠 |
+| une particule fine | 명사 | 여 | 미세먼지 |
+| recouvert(e) de neige | 표현 | - | 눈으로 덮인 (de+무관사) |
+| un manchot | 명사 | 남 | 펭귄 |
+| s'enflammer de couleurs | 표현 | - | 색으로 물들다·타오르다 |
+| l'extrême nord | 명사 | 남 | 최북단 |
+| éclater de rire | 표현 | - | 웃음을 터뜨리다 |
+| désigner qqn du doigt | 표현 | - | ~를 손가락으로 가리키다 |
+| prévenir l'obésité | 표현 | - | 비만을 예방하다 |
+| un parcours | 명사 | 남 | 코스·경로 (tout le parcours) |
+| gastronomique | 형용사 | - | 미식의 (fêtes gastronomiques) |
+| se réjouir d'avance de / se promettre du plaisir | 표현 | - | ~을 미리 기대하다 |
+| des bottes fourrées | 명사 | 여복 | 안감 댄(겨울) 부츠 |
+| connu(e) pour | 표현 | - | ~로 유명한 (connu par ❌) |
